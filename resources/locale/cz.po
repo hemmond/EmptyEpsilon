@@ -1578,7 +1578,7 @@ msgstr "Pauza"
 #: src/screens/gm/gameMasterScreen.cpp:46
 msgctxt "button"
 msgid "Intercept all comms"
-msgstr "Odposlech vsech komunikaci"
+msgstr "Zachyt vsech komunikaci"
 
 #: src/screens/gm/gameMasterScreen.cpp:61
 #, fuzzy
