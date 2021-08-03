@@ -35,7 +35,7 @@ function init()
     waveNumber = 0
     spawnWaveDelay = nil
     enemyList = {}
-    friendlyList = {}
+    friendlyList = {}   -- Friendly stations are in this list.
 
     PlayerSpaceship():setFaction("Human Navy"):setTemplate("Atlantis")
 
@@ -120,6 +120,18 @@ function randomSpawnPointInfo(distance)
     return x, y, rx, ry
 end
 
+function getRandomStationCoords()
+    -- This function selects random station from friendlyList and returns its x, y coordinates. 
+    --[[
+    local rand_val = random(0.1, #friendlyList*100)    --Do not get exactly min value, so it can be ceiled to at least 1. 
+    local index = math.ceil(rand_val/100)
+    local station = friendlyList[index]
+    ]]--
+    local station = friendlyList[irandom(1,#friendlyList)]
+    local x, y = station:getPosition()
+    return x, y
+end
+
 function spawnWave()
     waveNumber = waveNumber + 1
     getPlayerShip(-1):addToShipLog(string.format(_("Wave %d"), waveNumber), "red")
@@ -147,7 +159,9 @@ function spawnWave()
 
         -- Make the first ship the leader at this spawn point
         if spawnPointLeader == nil then
+            --x, y = getRandomStationCoords()
             ship:orderRoaming()
+            --ship:orderFlyTowards(x, y)
             spawnPointLeader = ship
         else
             ship:orderDefendTarget(spawnPointLeader)
