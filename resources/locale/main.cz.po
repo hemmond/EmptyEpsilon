@@ -1009,7 +1009,7 @@ msgstr "DB"
 #: src/screens/crew6/scienceScreen.cpp:121
 msgctxt "science"
 msgid "Shields"
-msgstr "Stity"
+msgstr "Štíty"
 
 #: src/screens/crew6/scienceScreen.cpp:123
 msgctxt "science"
@@ -1024,7 +1024,7 @@ msgstr "Pohled sondy"
 #: src/screens/crew6/scienceScreen.cpp:203
 #: src/screens/crew6/scienceScreen.cpp:245 src/screens/crew6/relayScreen.cpp:88
 msgid "Zoom: {zoom}x"
-msgstr "Priblizeni: {zoom}x"
+msgstr "Přiblížení: {zoom}x"
 
 #: src/screens/crew6/scienceScreen.cpp:216
 msgctxt "button"
@@ -1034,7 +1034,7 @@ msgstr "Radar"
 #: src/screens/crew6/scienceScreen.cpp:216
 msgctxt "button"
 msgid "Database"
-msgstr "Databaze"
+msgstr "Databáze"
 
 #: src/screens/crew6/relayScreen.cpp:103
 msgid "Link to Comms"
@@ -1042,7 +1042,7 @@ msgstr "Provázat s komunikační st."
 
 #: src/screens/crew6/relayScreen.cpp:107
 msgid "Start hacking"
-msgstr "Zahajit hackovani"
+msgstr "Zahájit hackování"
 
 #: src/screens/crew6/relayScreen.cpp:117
 msgid "Link to Science"
@@ -1054,11 +1054,11 @@ msgstr "Vyslat sondu"
 
 #: src/screens/crew6/relayScreen.cpp:163
 msgid "Alert level"
-msgstr "Stupen poplachu"
+msgstr "Stupeň poplachu"
 
 #: src/screens/crew6/weaponsScreen.cpp:64
 msgid "Beam info"
-msgstr "Paprskove zbrane"
+msgstr "Paprskové zbraně"
 
 #: src/screens/extra/damcon.cpp:20
 msgctxt "damagecontrol"
@@ -1067,17 +1067,17 @@ msgstr "Trup"
 
 #: src/screens/extra/powerManagement.cpp:22
 msgid "Coolant"
-msgstr "Chlazeni"
+msgstr "Chlazení"
 
 #: src/screens/extra/powerManagement.cpp:40
 msgctxt "button"
 msgid "Power"
-msgstr "Vykon"
+msgstr "Výkon"
 
 #: src/screens/extra/powerManagement.cpp:41
 msgctxt "button"
 msgid "Coolant"
-msgstr "Chlazeni"
+msgstr "Chlazení"
 
 #: src/screens/extra/powerManagement.cpp:42
 msgctxt "button"
@@ -1092,28 +1092,28 @@ msgstr "Pauza"
 #: src/screens/gm/gameMasterScreen.cpp:46
 msgctxt "button"
 msgid "Intercept all comms"
-msgstr "Odposlech vsech komunikaci"
+msgstr "Odposlech všech komunikací"
 
 #: src/screens/gm/gameMasterScreen.cpp:61
 #, fuzzy
 msgctxt "button"
 msgid "Global message"
-msgstr "Globalni zprava"
+msgstr "Globalní zpráva"
 
 #: src/screens/gm/gameMasterScreen.cpp:75
 msgctxt "button"
 msgid "Create..."
-msgstr "Pridat..."
+msgstr "Přidat..."
 
 #: src/screens/gm/gameMasterScreen.cpp:80
 msgctxt "button"
 msgid "Copy scenario"
-msgstr "Kopirovat scenar"
+msgstr "Kopírovat scénář"
 
 #: src/screens/gm/gameMasterScreen.cpp:85
 msgctxt "button"
 msgid "Copy selected"
-msgstr "Kopirovat vyber"
+msgstr "Kopírovat výběr"
 
 #: src/screens/gm/gameMasterScreen.cpp:95
 msgctxt "button"
@@ -1127,11 +1127,11 @@ msgstr "Volat lod"
 
 #: src/screens/gm/gameMasterScreen.cpp:166
 msgid "Defend location"
-msgstr "Branit lokaci"
+msgstr "Bránit lokaci"
 
 #: src/screens/gm/gameMasterScreen.cpp:171
 msgid "Stand ground"
-msgstr "Zustat na miste"
+msgstr "Zůstat na místě"
 
 #: src/screens/gm/gameMasterScreen.cpp:176
 msgid "Roaming"
@@ -1139,7 +1139,7 @@ msgstr "Toulat se"
 
 #: src/screens/gm/gameMasterScreen.cpp:181
 msgid "Idle"
-msgstr "Nedelat nic"
+msgstr "Nedělat nic"
 
 #: src/screens/gm/gameMasterScreen.cpp:186
 msgid "Orders:"
@@ -1151,11 +1151,11 @@ msgstr "Rozkazy:"
 #: src/screenComponents/hackingDialog.cpp:41
 msgctxt "button"
 msgid "Close"
-msgstr "Zavrit"
+msgstr "Zavřít"
 
 #: src/screens/gm/gameMasterScreen.cpp:317
 msgid "*mixed*"
-msgstr "*ruzne*"
+msgstr "*různé*"
 
 #: src/screens/gm/gameMasterScreen.cpp:324
 msgctxt "gm_info"
@@ -1165,19 +1165,19 @@ msgstr ""
 #: src/screens/gm/gameMasterScreen.cpp:336
 #, fuzzy
 msgid "gm_info"
-msgstr "Paprskove zbrane"
+msgstr "Paprskové zbraně"
 
 #: src/screens/gm/objectCreationView.cpp:35
 #, fuzzy
 msgctxt "create"
 msgid "cpu ship"
-msgstr "Vyberte lod"
+msgstr "Vyberte loď"
 
 #: src/screens/gm/objectCreationView.cpp:36
 #, fuzzy
 msgctxt "create"
 msgid "player ship"
-msgstr "Pridat hracskou lod"
+msgstr "Přidat hráčskou loď"
 
 #: src/screens/gm/objectCreationView.cpp:55
 msgctxt "create"
@@ -1187,7 +1187,7 @@ msgstr "Artefakt"
 #: src/screens/gm/objectCreationView.cpp:59
 msgctxt "create"
 msgid "Warp Jammer"
-msgstr "Rusicka warpu"
+msgstr "Rušička warpu"
 
 #: src/screens/gm/objectCreationView.cpp:63
 msgctxt "create"
@@ -1207,7 +1207,7 @@ msgstr "Asteroid"
 #: src/screens/gm/objectCreationView.cpp:76
 msgctxt "create"
 msgid "Visual Asteroid"
-msgstr "Vizualni Asteroid"
+msgstr "Vizuálni Asteroid"
 
 #: src/screens/gm/objectCreationView.cpp:80
 msgctxt "create"
@@ -1217,7 +1217,7 @@ msgstr "Planeta"
 #: src/screens/gm/objectCreationView.cpp:84
 msgctxt "create"
 msgid "BlackHole"
-msgstr "Cerna dira"
+msgstr "Černá díra"
 
 #: src/screens/gm/objectCreationView.cpp:88
 msgctxt "create"
@@ -1227,7 +1227,7 @@ msgstr "Mlhovina"
 #: src/screens/gm/objectCreationView.cpp:92
 msgctxt "create"
 msgid "Worm Hole"
-msgstr "Cervi dira"
+msgstr "Červí díra"
 
 #: src/screens/gm/globalMessageEntryView.cpp:22
 #: src/screenComponents/commsOverlay.cpp:102
@@ -1238,17 +1238,17 @@ msgstr "Odeslat"
 #: src/screens/gm/chatDialog.cpp:46
 msgctxt "chatGM"
 msgid "Target - Destroyed"
-msgstr "Cil - Znicen"
+msgstr "Cíl - Zničen"
 
 #: src/screens/gm/chatDialog.cpp:59
 msgctxt "chatGM"
 msgid "Channel not open, enter name to hail as to hail target."
-msgstr "Kanal neaktivni, zadej jmeno za ktere volas cil."
+msgstr "Kanál neaktivní, zadej jméno za které voláš cíl."
 
 #: src/screens/gm/chatDialog.cpp:60
 msgctxt "chatGM"
 msgid "{callsign} - Inactive"
-msgstr "{callsign} - Neaktivni"
+msgstr "{callsign} - Neaktivní"
 
 #: src/screens/gm/chatDialog.cpp:64
 msgctxt "chatGM"
@@ -1258,7 +1258,7 @@ msgstr "{callsign} - Zahajuji komunikaci s {target}"
 #: src/screens/gm/chatDialog.cpp:67
 msgctxt "chatGM"
 msgid "{callsign} - Hailing as {target}"
-msgstr "{callsign} - Volam jako {target}"
+msgstr "{callsign} - Volám jako {target}"
 
 #: src/screens/gm/chatDialog.cpp:71
 msgctxt "chatGM"
@@ -1278,12 +1278,12 @@ msgstr "{callsign} - Komunikuji jako {target}"
 #: src/screens/gm/tweak.cpp:32
 msgctxt "tab"
 msgid "Base"
-msgstr "Zaklad"
+msgstr "Základ"
 
 #: src/screens/gm/tweak.cpp:37
 msgctxt "tab"
 msgid "Ship"
-msgstr "Lod"
+msgstr "Loď"
 
 #: src/screens/gm/tweak.cpp:43
 #, fuzzy
@@ -1294,17 +1294,17 @@ msgstr "Asteroid"
 #: src/screens/gm/tweak.cpp:49
 msgctxt "tab"
 msgid "Jammer"
-msgstr "Rusicka"
+msgstr "Rušička"
 
 #: src/screens/gm/tweak.cpp:55
 msgctxt "tab"
 msgid "Shields"
-msgstr "Stity"
+msgstr "Štíty"
 
 #: src/screens/gm/tweak.cpp:61
 msgctxt "tab"
 msgid "Tubes"
-msgstr "Torpedomety"
+msgstr "Torpédomety"
 
 #: src/screens/gm/tweak.cpp:63
 msgctxt "tab"
@@ -1314,12 +1314,12 @@ msgstr "Rakety"
 #: src/screens/gm/tweak.cpp:65
 msgctxt "tab"
 msgid "Beams"
-msgstr "Paprskove zbrane"
+msgstr "Paprskové zbraně"
 
 #: src/screens/gm/tweak.cpp:67
 msgctxt "tab"
 msgid "Systems"
-msgstr "Systemy"
+msgstr "Systémy"
 
 #: src/screens/gm/tweak.cpp:69
 #, fuzzy
@@ -1331,13 +1331,13 @@ msgstr "Vykon"
 #, fuzzy
 msgctxt "tab"
 msgid "Coolant Rate"
-msgstr "Chlazeni"
+msgstr "Tempo chlazení"
 
 #: src/screens/gm/tweak.cpp:73
 #, fuzzy
 msgctxt "tab"
 msgid "Heat Rate"
-msgstr "Teplota"
+msgstr "Tempo teploty"
 
 #: src/screens/gm/tweak.cpp:75
 #, fuzzy
@@ -1348,53 +1348,52 @@ msgstr "Vykon"
 #: src/screens/gm/tweak.cpp:81
 msgctxt "tab"
 msgid "Player"
-msgstr "Hrac"
+msgstr "Hráč"
 
 #: src/screens/gm/tweak.cpp:83
 msgctxt "tab"
 msgid "Player 2"
-msgstr "Hrac 2"
+msgstr "Hráč 2"
 
 #: src/screens/gm/tweak.cpp:128
 msgid "Type name:"
-msgstr "Nazev typu:"
+msgstr "Název typu:"
 
 #: src/screens/gm/tweak.cpp:136
 msgid "Impulse speed:"
-msgstr "Impulzni rychlost:"
+msgstr "Impulzní rychlost:"
 
 #: src/screens/gm/tweak.cpp:142
-#, fuzzy
 msgid "Impulse reverse speed:"
-msgstr "Impulzni rychlost:"
+msgstr "Rychlost impulz. couvání:"
 
 #: src/screens/gm/tweak.cpp:148
 msgid "Turn speed:"
-msgstr "Rychlost otaceni:"
+msgstr "Rychlost otáčení:"
 
 #: src/screens/gm/tweak.cpp:154
 msgid "Jump Min Distance:"
-msgstr "Minimalni vzdalenost skoku:"
+msgstr "Minimální vzdálenost skoku:"
 
 #: src/screens/gm/tweak.cpp:160
 msgid "Jump Max Distance:"
-msgstr "Maximalni vzdalenost skoku:"
+msgstr "Maximální vzdálenost skoku:"
 
 #: src/screens/gm/tweak.cpp:166
 msgid "Jump charge:"
-msgstr "Naboj skokuoveho pohonu:"
+msgstr "Náboj skokového pohonu:"
 
 #: src/screens/gm/tweak.cpp:174
 msgid "Hull max:"
-msgstr "Maximalni trup:"
+msgstr "Maximální trup:"
 
 #: src/screens/gm/tweak.cpp:181
 msgid "Hull current:"
-msgstr "Soucasny trup:"
+msgstr "Současný trup:"
 
 #: src/screens/gm/tweak.cpp:188
 msgid "Could be destroyed"
-msgstr "Lze znicit"
+msgstr "Lze zničit"
 
 #: src/screens/gm/tweak.cpp:194
 msgctxt "tweak_ship"
@@ -1403,48 +1402,48 @@ msgstr ""
 
 #: src/screens/gm/tweak.cpp:195
 msgid "Warp Drive"
-msgstr "Warpovy pohon"
+msgstr "Warpový pohon"
 
 #: src/screens/gm/tweak.cpp:200
 msgid "Jump Drive"
-msgstr "Skokovy pohon"
+msgstr "Skokový pohon"
 
 #: src/screens/gm/tweak.cpp:206
 #, fuzzy
 msgid "Short-range radar range:"
-msgstr "Radar kratkeho dosahu:"
+msgstr "Radar krátkého dosahu:"
 
 #: src/screens/gm/tweak.cpp:212
 #, fuzzy
 msgid "Long-range radar range:"
-msgstr "Radar dlouheho dosahu:"
+msgstr "Radar dlouhého dosahu:"
 
 #: src/screens/gm/tweak.cpp:258
 msgctxt "missiles"
 msgid "Storage space:"
-msgstr "Maximum strel:"
+msgstr "Maximum střel:"
 
 #: src/screens/gm/tweak.cpp:271
 msgctxt "missiles"
 msgid "Stored amount:"
-msgstr "Aktualne strel:"
+msgstr "Aktuálně střel:"
 
 #: src/screens/gm/tweak.cpp:292
 msgid "Jammer Range:"
-msgstr "Dosah rusicky:"
+msgstr "Dosah rušičky:"
 
 #: src/screens/gm/tweak.cpp:319
 #, fuzzy
 msgid "Asteroid Size:"
-msgstr "Asteroid"
+msgstr "Velikost asteroidu"
 
 #: src/screens/gm/tweak.cpp:365
 msgid "Tube count:"
-msgstr "Pocet torpedometu:"
+msgstr "Počet torpédometů:"
 
 #: src/screens/gm/tweak.cpp:389
 msgid "Tube: {id_tube}"
-msgstr "Torpedomet: {id_tube}"
+msgstr "Torpédomet: {id_tube}"
 
 #: src/screens/gm/tweak.cpp:392
 msgctxt "tube"
@@ -1454,7 +1453,7 @@ msgstr "Směr:"
 #: src/screens/gm/tweak.cpp:398
 msgctxt "tube"
 msgid "Load time:"
-msgstr "Doba nabijeni:"
+msgstr "Doba nabíjení:"
 
 #: src/screens/gm/tweak.cpp:404
 msgctxt "tube"
@@ -1464,30 +1463,30 @@ msgstr "Velikost:"
 #: src/screens/gm/tweak.cpp:409
 msgctxt "tube"
 msgid "Small"
-msgstr "Male"
+msgstr "Malé"
 
 #: src/screens/gm/tweak.cpp:410
 msgctxt "tube"
 msgid "Medium"
-msgstr "Stredni"
+msgstr "Střední"
 
 #: src/screens/gm/tweak.cpp:411
 msgctxt "tube"
 msgid "large"
-msgstr "velke"
+msgstr "velké"
 
 #: src/screens/gm/tweak.cpp:415
 msgctxt "tube"
 msgid "Allowed use:"
-msgstr "Smi pouzit:"
+msgstr "Smí použít:"
 
 #: src/screens/gm/tweak.cpp:458
 msgid "Shield {id_shield} max:"
-msgstr "Maximum stitu {id_shield}:"
+msgstr "Maximum štítu {id_shield}:"
 
 #: src/screens/gm/tweak.cpp:468
 msgid "Shield {id_shield}:"
-msgstr "Stit {id_shield}:"
+msgstr "Štít {id_shield}:"
 
 #: src/screens/gm/tweak.cpp:522
 msgid "Beam: {id_beam}"
@@ -1501,22 +1500,22 @@ msgstr "Oblouk:"
 #: src/screens/gm/tweak.cpp:531
 msgctxt "beam"
 msgid "Direction:"
-msgstr "Smer:"
+msgstr "Směr:"
 
 #: src/screens/gm/tweak.cpp:537
 msgctxt "beam"
 msgid "Turret arc:"
-msgstr "Oblouk strelecke veze:"
+msgstr "Oblouk střelecké věže:"
 
 #: src/screens/gm/tweak.cpp:543
 msgctxt "beam"
 msgid "Turret direction:"
-msgstr "Smer strelecke veze:"
+msgstr "Smer střelecké věže:"
 
 #: src/screens/gm/tweak.cpp:549
 msgctxt "beam"
 msgid "Turret rotation rate:"
-msgstr "Rychlost otaceni veze:"
+msgstr "Rychlost otáčení věže:"
 
 #: src/screens/gm/tweak.cpp:564
 msgctxt "beam"
@@ -1531,51 +1530,47 @@ msgstr "Perioda cyklu:"
 #: src/screens/gm/tweak.cpp:576
 msgctxt "beam"
 msgid "Damage:"
-msgstr "Poskozeni:"
+msgstr "Poškození:"
 
 #: src/screens/gm/tweak.cpp:617
 msgid "{system} health"
-msgstr "{system} - zdravi"
+msgstr "{system} - zdraví"
 
 #: src/screens/gm/tweak.cpp:626
 msgid "{system} health max"
-msgstr "{system} - maximum zdravi"
+msgstr "{system} - maximum zdraví"
 
 #: src/screens/gm/tweak.cpp:636
 msgid "{system} heat"
 msgstr "{system} - teplota"
 
 #: src/screens/gm/tweak.cpp:679
-#, fuzzy
 msgid "current factor"
-msgstr "Oblouk strelecke veze:"
+msgstr ""
 
 #: src/screens/gm/tweak.cpp:680
 msgid "desired factor"
 msgstr ""
 
 #: src/screens/gm/tweak.cpp:685 src/screens/gm/tweak.cpp:748
-#, fuzzy
 msgid "{system}"
-msgstr "{system} - teplota"
+msgstr "{system}"
 
 #: src/screens/gm/tweak.cpp:709 src/screens/gm/tweak.cpp:772
 msgid "Applies on [Enter]"
 msgstr ""
 
 #: src/screens/gm/tweak.cpp:742
-#, fuzzy
 msgid "current rate"
-msgstr "Rychlost palby"
+msgstr ""
 
 #: src/screens/gm/tweak.cpp:743
-#, fuzzy
 msgid "desired rate"
-msgstr "Rychlost palby"
+msgstr ""
 
 #: src/screens/gm/tweak.cpp:844
 msgid "Control code:"
-msgstr "Ovladaci heslo:"
+msgstr "Ovládací kód:"
 
 #: src/screens/gm/tweak.cpp:853
 msgid "Reputation:"
@@ -1587,28 +1582,27 @@ msgstr "Maximum energie:"
 
 #: src/screens/gm/tweak.cpp:869
 msgid "Current energy:"
-msgstr "Soucasna energie:"
+msgstr "Současná energie:"
 
 #: src/screens/gm/tweak.cpp:877
 msgid "Boost Speed:"
-msgstr "Rychlost uhybu vpred:"
+msgstr "Rychlost úhybu vpřed:"
 
 #: src/screens/gm/tweak.cpp:883
 msgid "Strafe Speed:"
-msgstr "Rychlost uhybu do boku:"
+msgstr "Rychlost úhybu do boku:"
 
 #: src/screens/gm/tweak.cpp:891 src/screens/gm/tweak.cpp:933
 msgid "Positions occupied: "
-msgstr "Obsazene pozice: "
+msgstr "Obsazené pozice: "
 
 #: src/screens/gm/tweak.cpp:925
-#, fuzzy
 msgid "position"
-msgstr "Nastaveni"
+msgstr ""
 
 #: src/screens/gm/tweak.cpp:974
 msgid "Coolant:"
-msgstr "Chlazeni:"
+msgstr "Chlazení:"
 
 #: src/screens/gm/tweak.cpp:981
 msgid "Max Scan Probes:"
@@ -1621,42 +1615,42 @@ msgstr "Sond:"
 #: src/screens/gm/tweak.cpp:1037
 msgctxt "button"
 msgid "Can scan"
-msgstr "Muze skenovat"
+msgstr "Může skenovat"
 
 #: src/screens/gm/tweak.cpp:1043
 msgctxt "button"
 msgid "Can hack"
-msgstr "Muze hackovat"
+msgstr "Může hackovat"
 
 #: src/screens/gm/tweak.cpp:1049
 msgctxt "button"
 msgid "Can dock"
-msgstr "Muze kotvit"
+msgstr "Může kotvit"
 
 #: src/screens/gm/tweak.cpp:1055
 msgctxt "button"
 msgid "Can combat maneuver"
-msgstr "Muze delat uhybne manevry"
+msgstr "Může dělat úhybné manévry"
 
 #: src/screens/gm/tweak.cpp:1061
 msgctxt "button"
 msgid "Can self destruct"
-msgstr "Muze spustit sebedestrukci"
+msgstr "Může spustit sebedestrukci"
 
 #: src/screens/gm/tweak.cpp:1067
 msgctxt "button"
 msgid "Can launch probes"
-msgstr "Muze vyslat sondu"
+msgstr "Může vyslat sondu"
 
 #: src/screens/gm/tweak.cpp:1072
 msgctxt "button"
 msgid "Auto coolant"
-msgstr "Automaticke chlazeni"
+msgstr "Automatické chlazení"
 
 #: src/screens/gm/tweak.cpp:1077
 msgctxt "button"
 msgid "Auto repair"
-msgstr "Automaticke opravy"
+msgstr "Automatické opravy"
 
 #: src/screens/gm/tweak.cpp:1097
 msgctxt "player_tweak"
@@ -1670,31 +1664,31 @@ msgstr ""
 
 #: src/screens/gm/tweak.cpp:1123
 msgid "Callsign:"
-msgstr "Volaci znak:"
+msgstr "Volací znak:"
 
 #: src/screens/gm/tweak.cpp:1134
 msgid "Unscanned description:"
-msgstr "Popis - neoskenovany:"
+msgstr "Popis - neoskenovaný:"
 
 #: src/screens/gm/tweak.cpp:1141
 msgid "Friend or Foe Description:"
-msgstr "Popis - pritel/nepritel:"
+msgstr "Popis - přítel/nepřítel:"
 
 #: src/screens/gm/tweak.cpp:1148
 msgid "Simple Scan Description:"
-msgstr "Popis - jednoduchy sken:"
+msgstr "Popis - jednoduchý sken:"
 
 #: src/screens/gm/tweak.cpp:1155
 msgid "Full Scan Description:"
-msgstr "Popis - uplny sken:"
+msgstr "Popis - úplný sken:"
 
 #: src/screens/gm/tweak.cpp:1165
 msgid "Heading:"
-msgstr "Smer:"
+msgstr "Směr:"
 
 #: src/screens/gm/tweak.cpp:1171
 msgid "Scanning Complexity:"
-msgstr "Slozitost skenu:"
+msgstr "Složitost skenu:"
 
 #: src/screens/gm/tweak.cpp:1177
 msgid "Scanning Depth:"
@@ -1703,77 +1697,77 @@ msgstr "Hloubka skenu:"
 #: src/screenComponents/aimLock.cpp:11
 msgctxt "missile"
 msgid "Lock"
-msgstr "Zamereni"
+msgstr "Zaměření"
 
 #: src/screenComponents/missileTubeControls.cpp:107
 #: src/screenComponents/missileTubeControls.cpp:121
 #: src/screenComponents/missileTubeControls.cpp:139
 msgctxt "missile"
 msgid "Load"
-msgstr "Nabit"
+msgstr "Nabít"
 
 #: src/screenComponents/missileTubeControls.cpp:109
 msgctxt "missile"
 msgid "Empty"
-msgstr "Prazdne"
+msgstr "Prázdné"
 
 #: src/screenComponents/missileTubeControls.cpp:114
 #: src/screenComponents/missileTubeControls.cpp:130
 msgctxt "missile"
 msgid "Unload"
-msgstr "Vybit"
+msgstr "Vybít"
 
 #: src/screenComponents/missileTubeControls.cpp:126
 msgctxt "missile"
 msgid "Loading"
-msgstr "Nabiji se"
+msgstr "Nabíjí se"
 
 #: src/screenComponents/missileTubeControls.cpp:135
 msgctxt "missile"
 msgid "Unloading"
-msgstr "Vybiji se"
+msgstr "Vybíjí se"
 
 #: src/screenComponents/missileTubeControls.cpp:141
 msgctxt "missile"
 msgid "Firing"
-msgstr "Strili"
+msgstr "Střílí"
 
 #: src/screenComponents/selfDestructIndicator.cpp:15
 msgid "SELF DESTRUCT ACTIVATED"
-msgstr "SEBEDESTRUKCE AKTIVNI"
+msgstr "SEBEDESTRUKCE AKTIVNÍ"
 
 #: src/screenComponents/selfDestructIndicator.cpp:32
 msgid "Waiting for autorization input: {codes} left"
-msgstr "Cekam na zadani kodu: zbyva zadat {codes} kod(y)"
+msgstr "Čekám na zadání kódu: zbývá zadat {codes} kód(y)"
 
 #: src/screenComponents/selfDestructIndicator.cpp:36
 msgid "Have a nice day."
-msgstr "Preji pekny den."
+msgstr "Přeji pěkný den."
 
 #: src/screenComponents/selfDestructIndicator.cpp:40
 msgid "This ship will self-destruct in {seconds} seconds."
-msgstr "Tato lod se sama znici za {seconds} seconds."
+msgstr "Tato loď se sama zničí za {seconds} sekund."
 
 #: src/screenComponents/selfDestructEntry.cpp:22
 msgid "Self destruct activated!"
-msgstr "Sebedestrukce aktivovana!"
+msgstr "Sebedestrukce aktivována!"
 
 #: src/screenComponents/selfDestructEntry.cpp:67
 msgid "Code [{letter}]: {self_destruct_code}"
-msgstr "Kod [{letter}]: {self_destruct_code}"
+msgstr "Kód [{letter}]: {self_destruct_code}"
 
 #: src/screenComponents/selfDestructEntry.cpp:80
 msgctxt "selfdestruct"
 msgid "Enter [{letter}]"
-msgstr "Zadejte [{letter}]"
+msgstr "Zadejte kód [{letter}]"
 
 #: src/screenComponents/dockingButton.cpp:42
 msgid "Request Dock"
-msgstr "Pozadat o zakotveni"
+msgstr "Požádat o zakotveni"
 
 #: src/screenComponents/dockingButton.cpp:51
 msgid "Cancel Docking"
-msgstr "Zrusit kotveni"
+msgstr "Zrušit kotvení"
 
 #: src/screenComponents/dockingButton.cpp:55
 msgid "Undock"
@@ -1787,20 +1781,20 @@ msgstr "Kalibruje se"
 #: src/screenComponents/shieldsEnableButton.cpp:43
 msgctxt "shields"
 msgid "ON"
-msgstr "Zdvizene"
+msgstr "Zdvižené"
 
 #: src/screenComponents/shieldsEnableButton.cpp:43
 msgctxt "shields"
 msgid "OFF"
-msgstr "Sklopene"
+msgstr "Sklopené"
 
 #: src/screenComponents/shieldsEnableButton.cpp:45
 msgid "{frequency} Shields: {status}"
-msgstr "{frequency} stity: {status}"
+msgstr "{frequency} Štíty: {status}"
 
 #: src/screenComponents/shieldsEnableButton.cpp:47
 msgid "Shields: {status}"
-msgstr "Stity: {status}"
+msgstr "Štity: {status}"
 
 #: src/screenComponents/selfDestructButton.cpp:12
 msgid "Self destruct"
@@ -1820,7 +1814,7 @@ msgstr "Kalibrovat"
 #: src/screenComponents/jumpControls.cpp:53
 msgctxt "jumpcontrol"
 msgid "Distance"
-msgstr "Vzdalenost"
+msgstr "Vzdálenost"
 
 #: src/screenComponents/jumpControls.cpp:25
 msgctxt "jumpcontrol"
@@ -1835,7 +1829,7 @@ msgstr "Skok za"
 #: src/screenComponents/jumpControls.cpp:46
 msgctxt "jumpcontrol"
 msgid "Charging"
-msgstr "Nabiji se"
+msgstr "Nabíjí se"
 
 #: src/screenComponents/impulseControls.cpp:18
 msgctxt "slider"
@@ -1844,11 +1838,11 @@ msgstr "Impulz"
 
 #: src/screenComponents/frequencyCurve.cpp:60
 msgid "Damage with your beams"
-msgstr "Poskozeni vasimi paprsky"
+msgstr "Poškození vašimi paprsky"
 
 #: src/screenComponents/frequencyCurve.cpp:62
 msgid "Damage on your shields"
-msgstr "Poskozeni vasich stitu"
+msgstr "Poškození vašich štítů"
 
 #: src/screenComponents/frequencyCurve.cpp:68
 msgctxt "scienceFrequencyGraph"
@@ -1863,37 +1857,37 @@ msgstr ""
 #: src/screenComponents/powerDamageIndicator.cpp:33
 msgctxt "systems"
 msgid "DAMAGED"
-msgstr "POSKOZEN"
+msgstr "POŠKOZEN"
 
 #: src/screenComponents/powerDamageIndicator.cpp:37
 msgctxt "systems"
 msgid "JAMMED"
-msgstr "ZARUSEN"
+msgstr "ZARUŠEN"
 
 #: src/screenComponents/powerDamageIndicator.cpp:41
 msgctxt "systems"
 msgid "NO POWER"
-msgstr "ZADNY VYKON"
+msgstr "ŽÁDNÝ VÝKON"
 
 #: src/screenComponents/powerDamageIndicator.cpp:45
 msgctxt "systems"
 msgid "LOW ENERGY"
-msgstr "MALO ENERGIE"
+msgstr "MÁLO ENERGIE"
 
 #: src/screenComponents/powerDamageIndicator.cpp:49
 msgctxt "systems"
 msgid "LOW POWER"
-msgstr "MALO VYKONU"
+msgstr "MÁLO VÝKONU"
 
 #: src/screenComponents/powerDamageIndicator.cpp:53
 msgctxt "systems"
 msgid "OVERHEATING"
-msgstr "PREHRIVA SE"
+msgstr "PŘEHŘÍVÁ SE"
 
 #: src/screenComponents/powerDamageIndicator.cpp:57
 msgctxt "systems"
 msgid "HACKED"
-msgstr "HACKNUTY"
+msgstr "HACKNUTÝ"
 
 #: src/screenComponents/beamTargetSelector.cpp:9
 msgctxt "target"
@@ -1910,28 +1904,28 @@ msgstr "Odpauzovat"
 
 #: src/screenComponents/indicatorOverlays.cpp:126
 msgid "Defeat!"
-msgstr "Porazka!"
+msgstr "Porážka!"
 
 #: src/screenComponents/indicatorOverlays.cpp:129
 msgid "Victory!"
-msgstr "Vitezstvi!"
+msgstr "Vítězství!"
 
 #: src/screenComponents/indicatorOverlays.cpp:132
 msgid "{faction} wins"
-msgstr "Vyhra frakce: {faction}"
+msgstr "Výhra frakce: {faction}"
 
 #: src/screenComponents/combatManeuver.cpp:16
 msgid "Combat maneuver"
-msgstr "Uhybne manevry"
+msgstr "Úhybné manévry"
 
 #: src/screenComponents/shipDestroyedPopup.cpp:18
 msgid "SHIP DESTROYED!"
-msgstr "LOD ZNICENA!"
+msgstr "LOĎ ZNIČENA!"
 
 #: src/screenComponents/shipDestroyedPopup.cpp:19
 msgctxt "shipdestroyed"
 msgid "Return"
-msgstr "Vratit se"
+msgstr "Zpět"
 
 #: src/screenComponents/warpControls.cpp:41
 msgctxt "slider"
@@ -1944,7 +1938,7 @@ msgstr "Zahajuji komunikaci..."
 
 #: src/screenComponents/commsOverlay.cpp:39
 msgid "Answer"
-msgstr "Odpovedet"
+msgstr "Odpovědět"
 
 #: src/screenComponents/commsOverlay.cpp:45
 msgid "Ignore"
@@ -1952,19 +1946,19 @@ msgstr "Ignorovat"
 
 #: src/screenComponents/commsOverlay.cpp:54
 msgid "No reply..."
-msgstr "Bez odpovedi..."
+msgstr "Bez odpovědi..."
 
 #: src/screenComponents/commsOverlay.cpp:65
 msgid "Communications were suddenly cut"
-msgstr "Komunikace byla necekane prerusena"
+msgstr "Komunikace byla nečekaně přerušena"
 
 #: src/screenComponents/commsOverlay.cpp:76
 msgid "Communications channel closed"
-msgstr "Komunikacni kanal uzavren"
+msgstr "Komunikační kanál uzavřen"
 
 #: src/screenComponents/commsOverlay.cpp:157
 msgid "Hailed by {name}"
-msgstr "{name} nas vola"
+msgstr "{name} nás volá"
 
 #: src/screenComponents/jumpIndicator.cpp:24
 msgid "Jump in: {delay}"
@@ -1973,38 +1967,38 @@ msgstr "Skok za: {delay}"
 #: src/screenComponents/scanningDialog.cpp:21
 msgctxt "scanning"
 msgid "Electric signature"
-msgstr "Elektricka signatura"
+msgstr "Elektrická signatura"
 
 #: src/screenComponents/scanningDialog.cpp:27
 #, fuzzy
 msgctxt "scanning"
 msgid "LOCKED"
-msgstr "ODPOVIDA"
+msgstr "ODPOVÍDÁ"
 
 #: src/screenComponents/mainScreenControls.cpp:14
 msgctxt "controlbutton"
 msgid "Main screen"
-msgstr "Hlavni obrazovka"
+msgstr "Hlavní obrazovka"
 
 #: src/screenComponents/mainScreenControls.cpp:31
 msgctxt "mainscreen"
 msgid "Front"
-msgstr "Predni"
+msgstr "Přední"
 
 #: src/screenComponents/mainScreenControls.cpp:39
 msgctxt "mainscreen"
 msgid "Back"
-msgstr "Zadni"
+msgstr "Zadní"
 
 #: src/screenComponents/mainScreenControls.cpp:47
 msgctxt "mainscreen"
 msgid "Left"
-msgstr "Levy"
+msgstr "Levý"
 
 #: src/screenComponents/mainScreenControls.cpp:55
 msgctxt "mainscreen"
 msgid "Right"
-msgstr "Pravy"
+msgstr "Pravý"
 
 #: src/screenComponents/mainScreenControls.cpp:68
 msgctxt "mainscreen"
