@@ -2003,18 +2003,18 @@ msgstr "Pravý"
 #: src/screenComponents/mainScreenControls.cpp:68
 msgctxt "mainscreen"
 msgid "Target lock"
-msgstr "Zamereny cil"
+msgstr "Zaměřený cíl"
 
 #: src/screenComponents/mainScreenControls.cpp:80
 msgctxt "mainscreen"
 msgid "Tactical"
-msgstr "Takticky radar"
+msgstr "Taktický radar"
 
 #: src/screenComponents/mainScreenControls.cpp:91
 #, fuzzy
 msgctxt "mainscreen"
 msgid "Long Range"
-msgstr "Radar dlouheho dosahu"
+msgstr "Radar dlouhého dosahu"
 
 #: src/screenComponents/mainScreenControls.cpp:105
 msgctxt "mainscreen"
@@ -2024,7 +2024,7 @@ msgstr "Zobrazit komunikaci"
 #: src/screenComponents/mainScreenControls.cpp:116
 msgctxt "mainscreen"
 msgid "Hide comms"
-msgstr "Skryt komunikaci"
+msgstr "Skrýt komunikaci"
 
 #: src/screenComponents/hackingDialog.cpp:35
 msgctxt "hacking"
@@ -2034,25 +2034,25 @@ msgstr "Reset"
 #: src/screenComponents/hackingDialog.cpp:55
 msgctxt "hacking"
 msgid "Target system:"
-msgstr "Zacilit system:"
+msgstr "Zacílit systém:"
 
 #: src/screenComponents/hackingDialog.cpp:115
 msgctxt "hacking"
 msgid "Hacking in Progress: {percent}%"
-msgstr "Hackovani probiha: {percent}%"
+msgstr "Hackovaní probíha: {percent}%"
 
 #: src/screenComponents/hackingDialog.cpp:124
 msgctxt "hacking"
 msgid "{target}: hacked {percent}%"
-msgstr "{target}: hacknuty na {percent}%"
+msgstr "{target}: hacknutý na {percent}%"
 
 #: src/screenComponents/hackingDialog.cpp:141
 msgid "Hacking SUCCESS!"
-msgstr "Hacking USPESNY!"
+msgstr "Hackování ÚSPEŠNÝ!"
 
 #: src/screenComponents/hackingDialog.cpp:141
 msgid "Hacking FAILURE!"
-msgstr "Hacking SELHAL!"
+msgstr "Hackování SELHAL!"
 
 #: src/gui/hotkeyConfig.cpp:8
 msgctxt "hotkey_menu"
@@ -2068,13 +2068,12 @@ msgstr "Pauza"
 #: src/gui/hotkeyConfig.cpp:10
 msgctxt "hotkey_Basic"
 msgid "Show in-game help"
-msgstr ""
+msgstr "Zobrazit nápovědu ve hře"
 
 #: src/gui/hotkeyConfig.cpp:11 src/gui/hotkeyConfig.cpp:12
-#, fuzzy
 msgctxt "hotkey_Basic"
 msgid "Return to ship options menu"
-msgstr "Nastaveni hracske lode"
+msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:13
 msgctxt "hotkey_Basic"
@@ -2097,10 +2096,9 @@ msgid "Switch to next crew station"
 msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:18
-#, fuzzy
 msgctxt "hotkey_General"
 msgid "Switch to previous crew station"
-msgstr "Vyber stanici"
+msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:19
 msgctxt "hotkey_General"
@@ -2123,10 +2121,9 @@ msgid "Switch to science station"
 msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:23
-#, fuzzy
 msgctxt "hotkey_General"
 msgid "Switch to relay station"
-msgstr "Vyber stanici"
+msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:25
 #, fuzzy
@@ -2137,323 +2134,297 @@ msgstr "Hlavni obrazovka"
 #: src/gui/hotkeyConfig.cpp:26
 msgctxt "hotkey_MainScreen"
 msgid "View forward"
-msgstr ""
+msgstr "Pohled vpřed"
 
 #: src/gui/hotkeyConfig.cpp:27
 msgctxt "hotkey_MainScreen"
 msgid "View left"
-msgstr ""
+msgstr "Pohled vlevo"
 
 #: src/gui/hotkeyConfig.cpp:28
 msgctxt "hotkey_MainScreen"
 msgid "View right"
-msgstr ""
+msgstr "Pohled vpravo"
 
 #: src/gui/hotkeyConfig.cpp:29
 msgctxt "hotkey_MainScreen"
 msgid "View backward"
-msgstr ""
+msgstr "Pohled vzad"
 
 #: src/gui/hotkeyConfig.cpp:30
 #, fuzzy
 msgctxt "hotkey_MainScreen"
 msgid "Lock view on weapons target"
-msgstr "Zamknout kameru na cil lodi"
+msgstr "Zamknout pohled na cíl"
 
 #: src/gui/hotkeyConfig.cpp:31
 #, fuzzy
 msgctxt "hotkey_MainScreen"
 msgid "View tactical radar"
-msgstr "Takticky radar"
+msgstr "Zobrazit taktický radar"
 
 #: src/gui/hotkeyConfig.cpp:32
-#, fuzzy
 msgctxt "hotkey_MainScreen"
 msgid "View long-range radar"
-msgstr "Radar dlouheho dosahu"
+msgstr "Zobrazit radar dlouhého dosahu"
 
 #: src/gui/hotkeyConfig.cpp:33
 msgctxt "hotkey_MainScreen"
 msgid "Toggle first-person view"
-msgstr ""
+msgstr "Přepnout pohled z první osoby"
 
 #: src/gui/hotkeyConfig.cpp:45
-#, fuzzy
 msgctxt "hotkey_menu"
 msgid "Helms"
-msgstr "Navigace"
+msgstr "Kormidlo"
 
 #: src/gui/hotkeyConfig.cpp:46
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Increase impulse"
-msgstr "Impulz"
+msgstr "Zvýšit impulz"
 
 #: src/gui/hotkeyConfig.cpp:47
 msgctxt "hotkey_Helms"
 msgid "Decrease impulse"
-msgstr ""
+msgstr "Snížit impulz"
 
 #: src/gui/hotkeyConfig.cpp:48
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Zero impulse"
-msgstr "Impulz"
+msgstr "Nulový impulz"
 
 #: src/gui/hotkeyConfig.cpp:49
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Max impulse"
-msgstr "Impulz"
+msgstr "Maximální impulz"
 
 #: src/gui/hotkeyConfig.cpp:50
 msgctxt "hotkey_Helms"
 msgid "Max reverse impulse"
-msgstr ""
+msgstr "MAximální impulz vzad"
 
 #: src/gui/hotkeyConfig.cpp:51
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Turn left"
-msgstr "Rychlost otaceni"
+msgstr "Otáčet vlevo"
 
 #: src/gui/hotkeyConfig.cpp:52
 msgctxt "hotkey_Helms"
 msgid "Turn right"
-msgstr ""
+msgstr "Otáčet vpravo"
 
 #: src/gui/hotkeyConfig.cpp:53
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Warp off"
-msgstr "Warp"
+msgstr "Zastavit warp"
 
 #: src/gui/hotkeyConfig.cpp:54
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Warp 1"
-msgstr "Warp"
+msgstr "Warp 1"
 
 #: src/gui/hotkeyConfig.cpp:55
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Warp 2"
-msgstr "Warp"
+msgstr "Warp 2"
 
 #: src/gui/hotkeyConfig.cpp:56
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Warp 3"
-msgstr "Warp"
+msgstr "Warp 3"
 
 #: src/gui/hotkeyConfig.cpp:57
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Warp 4"
-msgstr "Warp"
+msgstr "Warp 4"
 
 #: src/gui/hotkeyConfig.cpp:58
 msgctxt "hotkey_Helms"
 msgid "Increase Warp"
-msgstr ""
+msgstr "Zvýšit Warp"
 
 #: src/gui/hotkeyConfig.cpp:59
 msgctxt "hotkey_Helms"
 msgid "Decrease Warp"
-msgstr ""
+msgstr "Snížit Warp"
 
 #: src/gui/hotkeyConfig.cpp:60
 msgctxt "hotkey_Helms"
 msgid "Dock request/abort/undock"
-msgstr ""
+msgstr "Kotvení - požádat/zrušit/odkotvit"
 
 #: src/gui/hotkeyConfig.cpp:61
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Initiate docking"
-msgstr "Zahajit hackovani"
+msgstr "Zahajit kotvení"
 
 #: src/gui/hotkeyConfig.cpp:62
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Abort docking"
-msgstr "Zahajit hackovani"
+msgstr "Zrušit kotvení"
 
 #: src/gui/hotkeyConfig.cpp:63
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Undock"
 msgstr "Odkotvit"
 
 #: src/gui/hotkeyConfig.cpp:64
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Increase jump distance"
-msgstr "Vypousteci vzdalenost"
+msgstr "Zvýšit vzdálenost skoku"
 
 #: src/gui/hotkeyConfig.cpp:65
-#, fuzzy
 msgctxt "hotkey_Helms"
 msgid "Decrease jump distance"
-msgstr "Vypousteci vzdalenost"
+msgstr "Snížit vzdálenost skoku"
 
 #: src/gui/hotkeyConfig.cpp:66
 msgctxt "hotkey_Helms"
 msgid "Initiate jump"
-msgstr ""
+msgstr "Zahájit skok"
 
 #: src/gui/hotkeyConfig.cpp:71
-#, fuzzy
 msgctxt "hotkey_menu"
 msgid "Weapons"
-msgstr "Zbrane"
+msgstr "Zbraně"
 
 #: src/gui/hotkeyConfig.cpp:72
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Select homing"
-msgstr "Vyberte lod"
+msgstr "Vybrat naváděnou střelu"
 
 #: src/gui/hotkeyConfig.cpp:73
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Select nuke"
-msgstr "Vyberte lod"
+msgstr "Vybrat jadernou střelu"
 
 #: src/gui/hotkeyConfig.cpp:74
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Select mine"
-msgstr "Vyberte lod"
+msgstr "Vybrat minu"
 
 #: src/gui/hotkeyConfig.cpp:75
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Select EMP"
-msgstr "Vyberte lod"
+msgstr "Vybrat EMP"
 
 #: src/gui/hotkeyConfig.cpp:76
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Select HVLI"
-msgstr "Vyberte lod"
+msgstr "Vybrat HVLI"
 
 #: src/gui/hotkeyConfig.cpp:79
 msgctxt "hotkey_Weapons"
 msgid "Load tube {number}"
-msgstr ""
+msgstr "Nabít torpédomet {number}"
 
 #: src/gui/hotkeyConfig.cpp:83
 msgctxt "hotkey_Weapons"
 msgid "Unload tube {number}"
-msgstr ""
+msgstr "Vybít torpédomet {number}"
 
 #: src/gui/hotkeyConfig.cpp:87
 msgctxt "hotkey_Weapons"
 msgid "Fire tube {number}"
-msgstr ""
+msgstr "Vystřelit z torpédometu {number}"
 
 #: src/gui/hotkeyConfig.cpp:89
 msgctxt "hotkey_Weapons"
 msgid "Select next hostile target"
-msgstr ""
+msgstr "Vybrat dalšího nepřítele"
 
 #: src/gui/hotkeyConfig.cpp:90
 msgctxt "hotkey_Weapons"
 msgid "Select next target (any)"
-msgstr ""
+msgstr "Vybrat další cíl (libovolný)"
 
 #: src/gui/hotkeyConfig.cpp:91
 msgctxt "hotkey_Weapons"
 msgid "Toggle shields"
-msgstr ""
+msgstr "Zvednout/sklopit štíty"
 
 #: src/gui/hotkeyConfig.cpp:92
 #, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Enable shields"
-msgstr "Povoleno"
+msgstr "Zvednout štíty"
 
 #: src/gui/hotkeyConfig.cpp:93
 #, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Disable shields"
-msgstr "Zakazano"
+msgstr "Sklopit štíty"
 
 #: src/gui/hotkeyConfig.cpp:94
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Increase shield frequency target"
-msgstr "Frekvence paprsku/stitu"
+msgstr "Zvýšit frekvenci štítů"
 
 #: src/gui/hotkeyConfig.cpp:95
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Decrease shield frequency target"
-msgstr "Frekvence paprsku/stitu"
+msgstr "Snížit frekvenci štítů"
 
 #: src/gui/hotkeyConfig.cpp:96
-#, fuzzy
 msgctxt "hotkey_Weapons"
 msgid "Start shield calibration"
-msgstr "Spustit scenar"
+msgstr "Spustit kalibraci štítů"
 
 #: src/gui/hotkeyConfig.cpp:97
 msgctxt "hotkey_Weapons"
 msgid "Next beam subsystem target type"
-msgstr ""
+msgstr "Zacílit paprsky další subsystém"
 
 #: src/gui/hotkeyConfig.cpp:98
 msgctxt "hotkey_Weapons"
 msgid "Previous beam subsystem target type"
-msgstr ""
+msgstr "Zacílit paprsky předchozí subsystém"
 
 #: src/gui/hotkeyConfig.cpp:99
 msgctxt "hotkey_Weapons"
 msgid "Increase beam frequency"
-msgstr ""
+msgstr "Zvýšit frekvenci paprsků"
 
 #: src/gui/hotkeyConfig.cpp:100
 msgctxt "hotkey_Weapons"
 msgid "Decrease beam frequency"
-msgstr ""
+msgstr "Snížit frekvenci paprsků"
 
 #: src/gui/hotkeyConfig.cpp:101
 msgctxt "hotkey_Weapons"
 msgid "Toggle missile aim lock"
-msgstr ""
+msgstr "Přepnout zámek zaměření raket"
 
 #: src/gui/hotkeyConfig.cpp:102
 msgctxt "hotkey_Weapons"
 msgid "Enable missile aim lock"
-msgstr ""
+msgstr "Zapnout zámek zaměření raket"
 
 #: src/gui/hotkeyConfig.cpp:103
 msgctxt "hotkey_Weapons"
 msgid "Disable missile aim lock"
-msgstr ""
+msgstr "Vypnout zámek zaměření raket"
 
 #: src/gui/hotkeyConfig.cpp:104
 msgctxt "hotkey_Weapons"
 msgid "Turn missile aim to the left"
-msgstr ""
+msgstr "Posunout zaměření raket vlevo"
 
 #: src/gui/hotkeyConfig.cpp:105
 msgctxt "hotkey_Weapons"
 msgid "Turn missile aim to the right"
-msgstr ""
+msgstr "Posunout zaměření raket vpravo"
 
 #: src/gui/hotkeyConfig.cpp:107
-#, fuzzy
 msgctxt "hotkey_menu"
 msgid "Science"
-msgstr "Vedecka st."
+msgstr "Vedecká st."
 
 #: src/gui/hotkeyConfig.cpp:108
 #, fuzzy
 msgctxt "hotkey_Science"
 msgid "Scan object"
-msgstr "Sond:"
+msgstr "Skenovat objekt"
 
 #: src/gui/hotkeyConfig.cpp:109
 msgctxt "hotkey_Science"
@@ -2461,7 +2432,6 @@ msgid "Select next scannable object"
 msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:112
-#, fuzzy
 msgctxt "hotkey_menu"
 msgid "Engineering"
 msgstr "Strojovna"
@@ -2470,108 +2440,108 @@ msgstr "Strojovna"
 #, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Select reactor system"
-msgstr "Vyber stanici"
+msgstr "Vybrat reaktor"
 
 #: src/gui/hotkeyConfig.cpp:114
 #, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Select beam weapon system"
-msgstr "{direction} paprskova zbran"
+msgstr "Vybrat paprskové zbraně"
 
 #: src/gui/hotkeyConfig.cpp:115
 msgctxt "hotkey_Engineering"
 msgid "Select missile weapon system"
-msgstr ""
+msgstr "Vybrat torpédomety"
 
 #: src/gui/hotkeyConfig.cpp:116
 msgctxt "hotkey_Engineering"
 msgid "Select maneuvering system"
-msgstr ""
+msgstr "Vybrat manévrování"
 
 #: src/gui/hotkeyConfig.cpp:117
 msgctxt "hotkey_Engineering"
 msgid "Select impulse system"
-msgstr ""
+msgstr "Vybrat impulzní pohon"
 
 #: src/gui/hotkeyConfig.cpp:118
 msgctxt "hotkey_Engineering"
 msgid "Select warp system"
-msgstr ""
+msgstr "Vybrat warp pohon"
 
 #: src/gui/hotkeyConfig.cpp:119
 msgctxt "hotkey_Engineering"
 msgid "Select jump drive system"
-msgstr ""
+msgstr "Vybrat skokový pohon"
 
 #: src/gui/hotkeyConfig.cpp:120
 msgctxt "hotkey_Engineering"
 msgid "Select front shields system"
-msgstr ""
+msgstr "Vybrat přední štíty"
 
 #: src/gui/hotkeyConfig.cpp:121
 msgctxt "hotkey_Engineering"
 msgid "Select rear shields system"
-msgstr ""
+msgstr "Vybrat zadní štíty"
 
 #: src/gui/hotkeyConfig.cpp:122
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 0%"
-msgstr ""
+msgstr "Energie do systému na 0%"
 
 #: src/gui/hotkeyConfig.cpp:123
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 30%"
-msgstr ""
+msgstr "Energie do systému na 30%"
 
 #: src/gui/hotkeyConfig.cpp:124
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 50%"
-msgstr ""
+msgstr "Energie do systému na 50%"
 
 #: src/gui/hotkeyConfig.cpp:125
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 100%"
-msgstr ""
+msgstr "Energie do systému na 100%"
 
 #: src/gui/hotkeyConfig.cpp:126
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 150%"
-msgstr ""
+msgstr "Energie do systému na 150%"
 
 #: src/gui/hotkeyConfig.cpp:127
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 200%"
-msgstr ""
+msgstr "Energie do systému na 200%"
 
 #: src/gui/hotkeyConfig.cpp:128
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 250%"
-msgstr ""
+msgstr "Energie do systému na 250%"
 
 #: src/gui/hotkeyConfig.cpp:129
 msgctxt "hotkey_Engineering"
 msgid "Set system power to 300%"
-msgstr ""
+msgstr "Energie do systému na 300%"
 
 #: src/gui/hotkeyConfig.cpp:130
 msgctxt "hotkey_Engineering"
 msgid "Increase system power"
-msgstr ""
+msgstr "Zvýšit energii do systému"
 
 #: src/gui/hotkeyConfig.cpp:131
 msgctxt "hotkey_Engineering"
 msgid "Decrease system power"
-msgstr ""
+msgstr "Snížit energii do systému"
 
 #: src/gui/hotkeyConfig.cpp:132
 msgctxt "hotkey_Engineering"
 msgid "Increase system coolant"
-msgstr ""
+msgstr "Zvýšit chlazení systému"
 
 #: src/gui/hotkeyConfig.cpp:133
 msgctxt "hotkey_Engineering"
 msgid "Decrease system coolant"
-msgstr ""
+msgstr "Snížit chlazení systému"
 
 #: src/gui/hotkeyConfig.cpp:134
 msgctxt "hotkey_Engineering"
@@ -2599,22 +2569,19 @@ msgid "Crew move right"
 msgstr ""
 
 #: src/gui/hotkeyConfig.cpp:139
-#, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Start self-destruct"
-msgstr "Muze spustit sebedestrukci"
+msgstr "Spustit sebedestrukci"
 
 #: src/gui/hotkeyConfig.cpp:140
-#, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Confirm self-destruct"
-msgstr "Muze spustit sebedestrukci"
+msgstr "Potvrdit sebedestrukci"
 
 #: src/gui/hotkeyConfig.cpp:141
-#, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Cancel self-destruct"
-msgstr "Muze spustit sebedestrukci"
+msgstr "Zrušit sebedestrukci"
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:196
 #: src/spaceObjects/mine.cpp:160
@@ -2623,14 +2590,12 @@ msgid "Owner"
 msgstr ""
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:203
-#, fuzzy
 msgctxt "gm_info"
 msgid "Target"
-msgstr "velke"
+msgstr ""
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:206
 #: src/spaceObjects/mine.cpp:163
-#, fuzzy
 msgctxt "gm_info"
 msgid "Faction"
 msgstr "Frakce"
@@ -2641,7 +2606,6 @@ msgid "Lifetime"
 msgstr ""
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:208
-#, fuzzy
 msgctxt "gm_info"
 msgid "Size"
 msgstr "Velikost"
@@ -2649,12 +2613,12 @@ msgstr "Velikost"
 #: src/spaceObjects/spaceship.cpp:1550
 msgctxt "missile"
 msgid "Homing"
-msgstr "Navadene"
+msgstr "Naváděné"
 
 #: src/spaceObjects/spaceship.cpp:1552
 msgctxt "missile"
 msgid "Nuke"
-msgstr "Jaderne"
+msgstr "Jaderné"
 
 #: src/spaceObjects/spaceship.cpp:1554
 msgctxt "missile"
@@ -2674,37 +2638,37 @@ msgstr ""
 #: src/spaceObjects/cpuShip.cpp:197
 msgctxt "cpulog"
 msgid "Searching for targets."
-msgstr "Hleda cile."
+msgstr "Hledá cíle."
 
 #: src/spaceObjects/cpuShip.cpp:206
 msgctxt "cpulog"
 msgid "Searching for hostiles around {x},{y}."
-msgstr "Hleda nepratele kolem {x},{y}."
+msgstr "Hledá nepřátele kolem {x},{y}."
 
 #: src/spaceObjects/cpuShip.cpp:215
 msgctxt "cpulog"
 msgid "Searching for supplies."
-msgstr "Hleda zasoby."
+msgstr "Hledá zásoby."
 
 #: src/spaceObjects/cpuShip.cpp:218 src/spaceObjects/cpuShip.cpp:293
 msgctxt "cpulog"
 msgid "Docking to {callsign}."
-msgstr "Kotvi k {callsign}."
+msgstr "Kotví k {callsign}."
 
 #: src/spaceObjects/cpuShip.cpp:229
 msgctxt "cpulog"
 msgid "Standing ground for now."
-msgstr "Prozatim zustava na miste."
+msgstr "Prozatím zůstává na místě."
 
 #: src/spaceObjects/cpuShip.cpp:237
 msgctxt "cpulog"
 msgid "Defending {x},{y}."
-msgstr "Brani {x},{y}."
+msgstr "Brání {x},{y}."
 
 #: src/spaceObjects/cpuShip.cpp:247
 msgctxt "cpulog"
 msgid "Defending {callsign}."
-msgstr "Brani {callsign}."
+msgstr "Brání {callsign}."
 
 #: src/spaceObjects/cpuShip.cpp:257
 msgctxt "cpulog"
@@ -2714,18 +2678,17 @@ msgstr "Sleduje {callsign}."
 #: src/spaceObjects/cpuShip.cpp:265 src/spaceObjects/cpuShip.cpp:273
 msgctxt "cpulog"
 msgid "Moving to {x},{y}."
-msgstr "Leti na {x},{y}."
+msgstr "Letí na {x},{y}."
 
 #: src/spaceObjects/cpuShip.cpp:283
 msgctxt "cpulog"
 msgid "Moving to attack {callsign}!"
-msgstr "Leti k utoku na {callsign}!"
+msgstr "Leti k útoku na {callsign}!"
 
 #: src/spaceObjects/cpuShip.cpp:306
-#, fuzzy
 msgctxt "gm_info"
 msgid "Orders"
-msgstr "Rozkazy:"
+msgstr "Rozkazy"
 
 #: src/spaceObjects/cpuShip.cpp:364
 msgctxt "orderscpu"
