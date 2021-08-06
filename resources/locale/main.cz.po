@@ -2693,7 +2693,7 @@ msgstr "Rozkazy"
 #: src/spaceObjects/cpuShip.cpp:364
 msgctxt "orderscpu"
 msgid "Idle"
-msgstr "Nedelat nic"
+msgstr "Nedělat nic"
 
 #: src/spaceObjects/cpuShip.cpp:365
 msgctxt "orderscpu"
@@ -2708,37 +2708,37 @@ msgstr "Ustoupit"
 #: src/spaceObjects/cpuShip.cpp:367
 msgctxt "orderscpu"
 msgid "Stand Ground"
-msgstr "Zustat na miste"
+msgstr "Zůstat na místě"
 
 #: src/spaceObjects/cpuShip.cpp:368
 msgctxt "orderscpu"
 msgid "Defend Location"
-msgstr "Branit lokaci"
+msgstr "Bránit lokaci"
 
 #: src/spaceObjects/cpuShip.cpp:369
 msgctxt "orderscpu"
 msgid "Defend Target"
-msgstr "Branit cil"
+msgstr "Bránit cíl"
 
 #: src/spaceObjects/cpuShip.cpp:370
 msgctxt "orderscpu"
 msgid "Fly in formation"
-msgstr "Letet ve formaci"
+msgstr "Letět ve formaci"
 
 #: src/spaceObjects/cpuShip.cpp:371
 msgctxt "orderscpu"
 msgid "Fly towards"
-msgstr "Letet k"
+msgstr "Letět k"
 
 #: src/spaceObjects/cpuShip.cpp:372
 msgctxt "orderscpu"
 msgid "Fly towards (ignore all)"
-msgstr "Letet k (ignorovat vse)"
+msgstr "Letět k (ignorovat vše)"
 
 #: src/spaceObjects/cpuShip.cpp:373
 msgctxt "orderscpu"
 msgid "Attack"
-msgstr "Utok"
+msgstr "Útok"
 
 #: src/spaceObjects/cpuShip.cpp:374
 msgctxt "orderscpu"
@@ -2748,144 +2748,140 @@ msgstr "Zadokovat"
 #: src/spaceObjects/playerSpaceship.cpp:302
 msgctxt "alert"
 msgid "RED ALERT"
-msgstr "CERVENY POPLACH"
+msgstr "ČERVENÝ POPLACH"
 
 #: src/spaceObjects/playerSpaceship.cpp:303
 msgctxt "alert"
 msgid "YELLOW ALERT"
-msgstr "ZLUTY POPLACH"
+msgstr "ŽLUTÝ POPLACH"
 
 #: src/spaceObjects/playerSpaceship.cpp:304
 msgctxt "alert"
 msgid "Normal"
-msgstr "Normalni"
+msgstr "Normální"
 
 #: src/spaceObjects/playerSpaceship.cpp:425
 msgctxt "shiplog"
 msgid "Start of log"
-msgstr "Zacatek deniku"
+msgstr "Začátek deníku"
 
 #: src/spaceObjects/playerSpaceship.cpp:1157
 msgctxt "shiplog"
 msgid "Hailed by {name}"
-msgstr "Vola nas {name}"
+msgstr "Volá nás {name}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1211
 msgctxt "shiplog"
 msgid "Communication channel closed by other side"
-msgstr "Komunikace uzavrena protistranou"
+msgstr "Komunikace uzavřena protistranou"
 
 #: src/spaceObjects/playerSpaceship.cpp:1221
 msgctxt "shiplog"
 msgid "Hailing from {callsign} stopped"
-msgstr "Volani od {callsign} prestalo"
+msgstr "Voláni od {callsign} přestalo"
 
 #: src/spaceObjects/playerSpaceship.cpp:1225
 msgctxt "shiplog"
 msgid "Communication channel closed"
-msgstr "Komunikacni kanal uzavren"
+msgstr "Komunikačni kanál uzavřen"
 
 #: src/spaceObjects/playerSpaceship.cpp:1396
 #: src/spaceObjects/playerSpaceship.cpp:1473
 msgctxt "chatdialog"
 msgid "Opened comms with {name}"
-msgstr "Zahajena komunikace s: {name}"
+msgstr "Zahájena komunikace s: {name}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1397
 msgctxt "shiplog"
 msgid "Hailing: {name}"
-msgstr "Volame: {name}"
+msgstr "Voláme: {name}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1420
 #: src/spaceObjects/playerSpaceship.cpp:1421
 msgctxt "chatdialog"
 msgid "Opened comms to {callsign}"
-msgstr "Zahajena komunikace s {callsign}"
+msgstr "Zahájena komunikace s {callsign}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1422
 #: src/spaceObjects/playerSpaceship.cpp:1423
 msgctxt "shiplog"
 msgid "Opened communication channel to {callsign}"
-msgstr "Otevren komunikacni kanal s {callsign}"
+msgstr "Otevřen komunikační kanál s {callsign}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1425
 msgctxt "shiplog"
 msgid "Refused communications from {callsign}"
-msgstr "Komunikace od {callsign} odmitnuta"
+msgstr "Komunikace od {callsign} odmítnuta"
 
 #: src/spaceObjects/playerSpaceship.cpp:1426
 msgctxt "shiplog"
 msgid "Refused communications to {callsign}"
-msgstr "Komunikace s {callsign} odmitnuta"
+msgstr "Komunikace s {callsign} odmítnuta"
 
 #: src/spaceObjects/playerSpaceship.cpp:1435
 msgctxt "shiplog"
 msgid "Hail suddenly went dead."
-msgstr "Volani nahle zmizelo."
+msgstr "Volani náhle ustalo."
 
 #: src/spaceObjects/playerSpaceship.cpp:1438
 msgctxt "shiplog"
 msgid "Accepted hail from {callsign}"
-msgstr "Prijata komunikace od {callsign}"
+msgstr "Přijata komunikace od {callsign}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1458
 msgctxt "shiplog"
 msgid "Refused hail from {callsign}"
-msgstr "Odmitnuta komunikace od {callsign}"
+msgstr "Odmítnuta komunikace od {callsign}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1472
 msgctxt "shiplog"
 msgid "Opened communication channel to {name}"
-msgstr "Otevren komunikacni kanal s {name}"
+msgstr "Otevřen komunikační kanál s {name}"
 
 #: src/spaceObjects/playerSpaceship.cpp:1475
 msgctxt "shiplog"
 msgid "Refused hail from {name}"
-msgstr "Odmitnuta komunikace od {name}"
+msgstr "Odmítnuta komunikace od {name}"
 
 #: src/spaceObjects/shipTemplateBasedObject.cpp:271
-#, fuzzy
 msgctxt "gm_info"
 msgid "CallSign"
-msgstr "Volaci znak"
+msgstr "Volací znak"
 
 #: src/spaceObjects/shipTemplateBasedObject.cpp:272
-#, fuzzy
 msgctxt "gm_info"
 msgid "Type"
 msgstr "Typ"
 
 #: src/spaceObjects/shipTemplateBasedObject.cpp:273
-#, fuzzy
 msgctxt "gm_info"
 msgid "Hull"
 msgstr "Trup"
 
 #: src/spaceObjects/shipTemplateBasedObject.cpp:278
-#, fuzzy
 msgctxt "gm_info"
 msgid "Shield"
-msgstr "Stity"
+msgstr "Štíty"
 
 #: src/spaceObjects/spaceshipParts/weaponTube.cpp:296
 msgctxt "tube"
 msgid "Front"
-msgstr "Predni"
+msgstr "Přední"
 
 #: src/spaceObjects/spaceshipParts/weaponTube.cpp:298
 msgctxt "tube"
 msgid "Right"
-msgstr "Pravy"
+msgstr "Pravý"
 
 #: src/spaceObjects/spaceshipParts/weaponTube.cpp:300
 msgctxt "tube"
 msgid "Left"
-msgstr "Levy"
+msgstr "Levý"
 
 #: src/spaceObjects/spaceshipParts/weaponTube.cpp:302
 msgctxt "tube"
 msgid "Rear"
-msgstr "Zadni"
+msgstr "Zadní"
 
 #: scripts/shipTemplates_Corvette.lua:14
 msgctxt "ship"
@@ -2920,10 +2916,10 @@ msgid ""
 "Atlantis X23 is fitted with a jump drive, it can also serve as an "
 "intersystem patrol craft."
 msgstr ""
-"Atlantis X23 je nejmensi model torpedoborce. Velikosti fregata a silou "
-"korveta tvori vybornou doprovodnou lod pro obranu vetsich lodi proti vice "
-"mensim nepratelum. Atlantis X23 je dale vybavena skokovym pohonem takze muze "
-"byt pouzita i jako hlidkova lod mezi hvezdnymi systemy."
+"Atlantis X23 je nejmenší model torpédoborce. Velikostí fregata a silou "
+"korveta tvoři výbornou doprovodnou loď pro obranu větších lodí proti více "
+"menším nepřátelům. Atlantis X23 je dále vybavena skokovým pohonem takže může "
+"být použita i jako hlídková loď mezi hvězdnými systémy."
 
 #: scripts/shipTemplates_Corvette.lua:33
 msgctxt "playerShip"
@@ -2937,10 +2933,10 @@ msgid ""
 "impulse engines. Its missile loadout is also more diverse. Mistaking the "
 "modified Atlantis for an Atlantis X23 would be a deadly mistake."
 msgstr ""
-"Refitovana verze Atlantis X23 pro vice vseobecne ukoly. Silny system stitu "
-"byl nahrazen pokrocilym manevrovacim systemem a vylepsenymi impulznimi "
-"motory. Jeji torpedova vybava je taktez vice univerzalni. Splest si tuto "
-"upravenou Atlantis za Atlantis X23 by byla smrtelna chyba."
+"Refitovana verze Atlantis X23 pro více všeobecné úkoly. Silný systém štítů "
+"byl nahrazen pokročilým manévrovacím systémem a vylepšenými impulzními "
+"motory. Její torpédová výbava je taktéž více univerzální. Splést si tuto "
+"upravenou Atlantis za Atlantis X23 by byla smrtelná chyba."
 
 #: scripts/shipTemplates_Corvette.lua:83
 msgctxt "ship"
@@ -2956,11 +2952,11 @@ msgid ""
 "time, even the strongest shields can't withstand a Starhammer's assault for "
 "long."
 msgstr ""
-"Oproti svemu predchudci, Starhammer II (Hvezdne kladivo) dostava svemu "
-"jmenu. Vyresenim problemu puvodniho Starhammeru v energetice a chlazeni se "
-"stal tento vylepseny fenomenalni lodi pro celni utok. Jeho nizka rychlost "
-"klade sice vetsi nároky na pilota, ale kdyz je ve spravny cas na spravnem "
-"miste, ani nejsilnejsi lode nevydrzi proti utoku Starhammeru dlouho."
+"Oproti svému předchůdci, Starhammer II (Hvězdné kladivo) dostává svému "
+"jménu. Vyrešením problému původního Starhammeru v energetice a chlazení se "
+"stal tento vylepšený model fenomenální lodí pro čelní útok. Jeho nízká rychlost "
+"klade sice větší nároky na pilota, ale když je ve správný čas na správném "
+"místě, ani nejsilnější lodě nevydrží proti útoku Starhammeru dlouho."
 
 #: scripts/shipTemplates_Corvette.lua:101
 msgctxt "playerShip"
@@ -2978,15 +2974,14 @@ msgid ""
 "priority, though they are still present. Stronger defenses than a frigate, "
 "but not as strong as the Atlantis"
 msgstr ""
-"Pocetne torpedomety kolem lodi. Paprskove zbrane byly povazovany za nizsi "
-"prioritu, ale stale tu nejake jsou. Lepsi obrana, nez fregaty, ale ne tak "
-"silne jako Atlantis"
+"Početné torpédomety kolem lodi. Paprskové zbraně byly považovány za nižší "
+"prioritu, ale stále tu nějaké jsou. Lepší obrana, nez fregaty, ale ne tak "
+"silná jako Atlantis"
 
 #: scripts/shipTemplates_Corvette.lua:157
-#, fuzzy
 msgctxt "playerShip"
 msgid "Maverick"
-msgstr "Manevrovani"
+msgstr ""
 
 #: scripts/shipTemplates_Corvette.lua:157
 msgctxt "subclass"
@@ -2999,15 +2994,14 @@ msgid ""
 "deemed lower priority, though they are still present. Stronger defenses than "
 "a frigate, but not as strong as the Atlantis"
 msgstr ""
-"Rada paprskovych zbrani jezicich se z ruznych mist na teto strelecke lodi. "
-"Torpedomety byly povazovany za nizsi prioritu, ale stale tu nejake jsou. "
-"Lepsi obrana, nez fregaty, ale ne tak silne jako Atlantis"
+"Řada paprskových zbraní ježících se z různých míst na této střelecké lodi. "
+"Torpédomety byly považovány za nižší prioritu, ale stále tu nějaké jsou. "
+"Lepší obrana, než fregaty, ale ne tak silná jako Atlantis"
 
 #: scripts/shipTemplates_Corvette.lua:217
-#, fuzzy
 msgctxt "ship"
 msgid "Defense platform"
-msgstr "Branit lokaci"
+msgstr ""
 
 #: scripts/shipTemplates_Corvette.lua:217
 msgctxt "subclass"
@@ -3020,10 +3014,10 @@ msgid ""
 "resupply functions, but is armed with powerful beam weapons and can slowly "
 "rotate. Larger systems often use these platforms to resupply patrol ships."
 msgstr ""
-"Tato staticka obranna platforma funguje jako stanice, s dokovanim a "
-"zasobovanim, ale je vyzbrojena silnymi paprskovymi zbranemi a dokaze se "
-"pomalu otacet. Vetsi hvezdne systemy casto vyuzivaji tyto platformy pro "
-"zasobovani hlidkovych lodi."
+"Tato staticka obranná platforma funguje jako stanice, s dokováním a "
+"zásobováním, ale je vyzbrojena silnými paprskovými zbraněmi a dokáže se "
+"pomalu otáčet. Větší hvězdné systémy často využívají tyto platformy pro "
+"zásobování hlídkových lodí."
 
 #: scripts/shipTemplates_Corvette.lua:235
 #, lua-format
@@ -3046,8 +3040,8 @@ msgid ""
 "These freighters are designed to transport armed troops, military support "
 "personnel, and combat gear."
 msgstr ""
-"Tyto prepravni lode byly navrzeny pro transport vojaku, podpurneho armadniho "
-"personalu a bojove vybavy."
+"Tyto přepravní lodě byly navrženy pro transport vojáků, podpůrného armádního "
+"personálu a bojové výbavy."
 
 #: scripts/shipTemplates_Corvette.lua:244
 #, lua-format
@@ -3067,9 +3061,9 @@ msgid ""
 "power. Their cargo bays include climate control and stabilization systems "
 "that keep the cargo in good condition."
 msgstr ""
-"Tyto prepravni lode transportuji velke mnozstvi nakladu na velike "
-"vzdalenosti impulzni rychlosti. Vybava nakladoveho prostoru zahrnuje systemy "
-"pro ovladani a stabilizaci prostredi, ktere udrzuji naklad dobrem stavu."
+"Tyto přepravní lodě transportují velké množství nákladu na veliké "
+"vzdálenosti impulzní rychlostí. Výbava nákladového prostoru zahrnuje systémy "
+"pro ovládání a stabilizaci prostředí, které udržují náklad v dobrém stavu."
 
 #: scripts/shipTemplates_Corvette.lua:257
 #, lua-format
@@ -3089,9 +3083,9 @@ msgid ""
 "fitted with a trash compactor and fewer stabilzation systems than cargo "
 "freighters."
 msgstr ""
-"Tyto prepravni lode jsou specialne navrzeny pro transport odpadu. Jsou "
-"vybaveny zhutnovacem odpadu a mene systemy pro stabilizaci prostredi, nez "
-"nakladni lode."
+"Tyto přepravní lodě jsou speciálně navrženy pro transport odpadu. Jsou "
+"vybaveny zhutňovačem odpadu a méně systémy pro stabilizaci prostředí, než "
+"nákladní lodě."
 
 #: scripts/shipTemplates_Corvette.lua:270
 #, lua-format
@@ -3110,9 +3104,9 @@ msgid ""
 "Equipment freighters have specialized environmental and stabilization "
 "systems to safely carry delicate machinery and complex instruments."
 msgstr ""
-"Tyto prepravni lode maji specializovane systemy pro stabilizaci prostredi, "
-"ktere zajistuji bezpecny transport choulostivych stroju a slozitych "
-"pristroju."
+"Tyto přepravní lodě mají specializované systémy pro stabilizaci prostředí, "
+"které zajišťují bezpečný transport choulostivých strojů a složitých "
+"přístrojů."
 
 #: scripts/shipTemplates_Corvette.lua:283
 #, lua-format
@@ -3132,9 +3126,9 @@ msgid ""
 "sensors that watch for any changes to their cargo's potentially volatile "
 "state."
 msgstr ""
-"Palivove tankery maji masivni nadrze pro transport paliva a velmi jemne "
-"vnitrni senzory, ktere hlidaji jakoukoliv zmenu ve stavu potencialne "
-"vybusneho nakladu."
+"Palivové tankery mají masivní nádrže pro transport paliva a velmi jemné "
+"vnitřní senzory, které hlídají jakoukoliv změnu ve stavu potenciálně "
+"výbušného nákladu."
 
 #: scripts/shipTemplates_Corvette.lua:296
 #, lua-format
@@ -3143,10 +3137,9 @@ msgid "Fuel Jump Freighter %d"
 msgstr ""
 
 #: scripts/shipTemplates_Corvette.lua:301
-#, fuzzy
 msgctxt "ship"
 msgid "Jump Carrier"
-msgstr "Skokovy pohon"
+msgstr ""
 
 #: scripts/shipTemplates_Corvette.lua:302
 msgid ""
@@ -3514,10 +3507,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:369
-#, fuzzy
 msgctxt "playerShip"
 msgid "Repulse"
-msgstr "Impulz"
+msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:369
 msgctxt "subclass"
@@ -3529,10 +3521,9 @@ msgid "Jump/Turret version of Flavia Falcon"
 msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:414
-#, fuzzy
 msgctxt "ship"
 msgid "Fiend G3"
-msgstr "Dabelska"
+msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:414 scripts/shipTemplates_OLD.lua:271
 #: scripts/shipTemplates_StarFighters.lua:65
@@ -3550,10 +3541,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:428
-#, fuzzy
 msgctxt "ship"
 msgid "Fiend G4"
-msgstr "Dabelska"
+msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:429
 msgid ""
@@ -3565,10 +3555,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:433
-#, fuzzy
 msgctxt "ship"
 msgid "Fiend G6"
-msgstr "Dabelska"
+msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:434
 msgid ""
@@ -3580,10 +3569,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:437
-#, fuzzy
 msgctxt "ship"
 msgid "Fiend G5"
-msgstr "Dabelska"
+msgstr ""
 
 #: scripts/shipTemplates_Frigates.lua:438
 msgid ""
@@ -3595,10 +3583,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:6
-#, fuzzy
 msgctxt "playerShip"
 msgid "Player Cruiser"
-msgstr "Hrac 2"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:62
 msgctxt "playerShip"
@@ -3606,10 +3593,9 @@ msgid "Player Missile Cr."
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:116
-#, fuzzy
 msgctxt "playerShip"
 msgid "Player Fighter"
-msgstr "Hrac 2"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:156
 msgctxt "ship"
@@ -3638,10 +3624,9 @@ msgid "Small mine laying vessel with minimal armament, shields and hull"
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:220
-#, fuzzy
 msgctxt "ship"
 msgid "Fighter"
-msgstr "Pravy"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:222
 msgid ""
@@ -3682,10 +3667,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:260
-#, fuzzy
 msgctxt "ship"
 msgid "Missile Cruiser"
-msgstr "Rakety"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:260
 msgctxt "subclass"
@@ -3732,10 +3716,9 @@ msgstr ""
 #: scripts/shipTemplates_StarFighters.lua:13
 #: scripts/shipTemplates_StarFighters.lua:65
 #: scripts/shipTemplates_StarFighters.lua:121
-#, fuzzy
 msgctxt "class"
 msgid "Starfighter"
-msgstr "Spustit server"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:289
 msgctxt "subclass"
@@ -3795,10 +3778,9 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:363
-#, fuzzy
 msgctxt "ship"
 msgid "Battlestation"
-msgstr "Reputace"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:363
 msgctxt "subclass"
@@ -3817,10 +3799,9 @@ msgid "Ender"
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:455
-#, fuzzy
 msgctxt "ship"
 msgid "Weapons platform"
-msgstr "Zbrane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:457
 msgid ""
@@ -3845,52 +3826,44 @@ msgid ""
 msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:483
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Fighter"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:490
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Breaker"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:500
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Worker"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:507
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Drone"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:513
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Feeder"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:523
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Scout"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:529
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Destroyer"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:540
-#, fuzzy
 msgctxt "ship"
 msgid "Ktlitan Queen"
-msgstr "Ktlitane"
+msgstr ""
 
 #: scripts/shipTemplates_OLD.lua:551
 #, lua-format
@@ -3904,10 +3877,9 @@ msgid "MT52 Hornet"
 msgstr ""
 
 #: scripts/shipTemplates_StarFighters.lua:13
-#, fuzzy
 msgctxt "subclass"
 msgid "Interceptor"
-msgstr "Internet"
+msgstr ""
 
 #: scripts/shipTemplates_StarFighters.lua:15
 msgid ""
@@ -4112,40 +4084,39 @@ msgstr ""
 #: scripts/comms_ship.lua:38
 msgctxt "commsShipAssist"
 msgid "What do you want?"
-msgstr ""
+msgstr "Co chcete?"
 
 #: scripts/comms_ship.lua:40
 msgctxt "commsShipAssist"
 msgid "Sir, how can we assist?"
-msgstr ""
+msgstr "Jak vám můžeme pomoci?"
 
 #: scripts/comms_ship.lua:43
-#, fuzzy
 msgctxt "commsShipAssist"
 msgid "Defend a waypoint"
-msgstr "Smazat bod"
+msgstr "Bránit bod"
 
 #: scripts/comms_ship.lua:46
 msgctxt "commsShipAssist"
 msgid "No waypoints set. Please set a waypoint first."
-msgstr ""
+msgstr "Nemáte umístěn žádný bod. Nejprve jej umístěte."
 
 #: scripts/comms_ship.lua:49
 msgctxt "commsShipAssist"
 msgid "Which waypoint should we defend?"
-msgstr ""
+msgstr "Jaký bod máme bránit?"
 
 #: scripts/comms_ship.lua:52
-#, fuzzy, lua-format
-msgctxt "commsShipAssist"
-msgid "Defend %s"
-msgstr "Branit cil"
-
-#: scripts/comms_ship.lua:56
 #, lua-format
 msgctxt "commsShipAssist"
+msgid "Defend %s"
+msgstr "Branit %s"
+
+#: scripts/comms_ship.lua:56
+#, fuzzy, lua-format
+msgctxt "commsShipAssist"
 msgid "We are heading to assist at %s."
-msgstr ""
+msgstr "Jdeme pomoci na %s."
 
 #: scripts/comms_ship.lua:66
 msgctxt "commsShipAssist"
@@ -4169,16 +4140,15 @@ msgid "Dock at %s"
 msgstr ""
 
 #: scripts/comms_ship.lua:86
-#, fuzzy, lua-format
+#, lua-format
 msgctxt "commsShipAssist"
 msgid "Docking at %s."
-msgstr "Kotvi k {callsign}."
+msgstr "Kotví k %s"
 
 #: scripts/comms_ship.lua:105
-#, fuzzy
 msgctxt "commsShipEnemy"
 msgid "We will see to your destruction!"
-msgstr "Vyber stanici"
+msgstr ""
 
 #: scripts/comms_ship.lua:106
 msgctxt "commsShipEnemy"
@@ -4292,22 +4262,22 @@ msgid "Hull: %d%%\n"
 msgstr ""
 
 #: scripts/comms_ship.lua:190
-#, fuzzy, lua-format
+#, lua-format
 msgctxt "commsShipAssist"
 msgid "Shield: %d%%\n"
-msgstr "Stity"
+msgstr "Štíty: %d%%\n"
 
 #: scripts/comms_ship.lua:192
-#, fuzzy, lua-format
+#, lua-format
 msgctxt "commsShipAssist"
 msgid "Front Shield: %d%%\n"
-msgstr "Predni generator stitu"
+msgstr "Prední štít: %d%%\n"
 
 #: scripts/comms_ship.lua:193
-#, fuzzy, lua-format
+#, lua-format
 msgctxt "commsShipAssist"
 msgid "Rear Shield: %d%%\n"
-msgstr "Zadni generator stitu"
+msgstr "Zadní štít: %d%%\n"
 
 #: scripts/comms_ship.lua:196
 #, lua-format
@@ -4341,10 +4311,10 @@ msgid ""
 msgstr ""
 
 #: scripts/comms_station.lua:89
-#, fuzzy, lua-format
+#, lua-format
 msgctxt "commsStation"
 msgid "Welcome to our lovely station %s."
-msgstr "Vyber stanici"
+msgstr ""
 
 #: scripts/comms_station.lua:94
 msgctxt "commsStation"
@@ -4385,12 +4355,12 @@ msgstr ""
 #: scripts/comms_station.lua:127
 msgctxt "commsStation"
 msgid "We do not deal in weapons of mass destruction."
-msgstr ""
+msgstr "Neobchodujeme se zbraněmi hromadného ničení."
 
 #: scripts/comms_station.lua:129
 msgctxt "commsStation"
 msgid "We do not deal in weapons of mass disruption."
-msgstr ""
+msgstr "Neobchodujeme se zbraněmi hromadného rušení."
 
 #: scripts/comms_station.lua:131
 msgctxt "commsStation"
@@ -4509,7 +4479,7 @@ msgstr ""
 
 #: scripts/factionInfo.lua:1
 msgid "Independent"
-msgstr "Nezavisli"
+msgstr "Nezávislí"
 
 #: scripts/factionInfo.lua:3
 msgid ""
@@ -4521,7 +4491,7 @@ msgstr ""
 
 #: scripts/factionInfo.lua:5
 msgid "Human Navy"
-msgstr "Lidske Namornictvo"
+msgstr "Lidské Námořnictvo"
 
 #: scripts/factionInfo.lua:7
 msgid ""
@@ -4540,16 +4510,16 @@ msgid ""
 msgstr ""
 "Zbytky pozemskeho namornictva.\n"
 "\n"
-"Zatim co ostatni rasy se vydaly do vesmiru ve jmenu chamtivosti, nebo "
-"vedeckeho pokroku, lide byli jedinou rasou, ktera zacala prozkoumavat "
-"galaxii, kdyz jejich svet jiz nedokazal udrzet jejich populaci. Nektere "
-"dalsi rasy vidi lidstvo jako nejaky virus nebo mor, na zaklade rychlosti s "
-"jakou se mnozi a rozsiruji.\n"
+"Zatím co ostatní rasy se vydaly do vesmíru ve jménu chamtivosti, nebo "
+"vědeckého pokroku, lidé byli jedinou rasou, která začala prozkoumávat "
+"galaxii, když jejich svět již nedokázal udržet jejich populaci. Některé "
+"další rasy vidí lidstvo jako nějaký virus nebo mor, na základě rychlosti s "
+"jakou se množí a rozšiřují.\n"
 "\n"
-"Lidske predpisy pro vesmirne lode urcuji, ze jen lode namornictva smi do "
-"hlubokeho vesmiru. To vsak uplne nezabranilo lidem mimo namornictvo, aby se "
-"vydali do vesmiu, nebot peknych par lidi se prihlasilo ke sluzbe na "
-"mimozemskych obchodnich lodich nebo piratskych najezdnicich."
+"Lidské předpisy pro vesmírné lodě určují, že jen lodě námořnictva smí do "
+"hlubokého vesmíru. To však úplně nezabránilo lidem mimo námořnictvo, aby se "
+"vydali do vesmíru, neboť pěkných pár lidí se přihlásilo ke službě na "
+"mimozemských obchodních lodích nebo pirátských nájezdnících."
 
 #: scripts/factionInfo.lua:13
 msgid "Kraylor"
