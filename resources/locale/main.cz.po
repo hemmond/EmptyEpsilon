@@ -4586,7 +4586,7 @@ msgstr ""
 
 #: scripts/factionInfo.lua:43
 msgid "Ghosts"
-msgstr "Duchove"
+msgstr "Duchové"
 
 #: scripts/factionInfo.lua:45
 msgid ""
@@ -4619,7 +4619,7 @@ msgstr ""
 
 #: scripts/factionInfo.lua:52
 msgid "Ktlitans"
-msgstr "Ktlitane"
+msgstr "Ktlitané"
 
 #: scripts/factionInfo.lua:54
 msgid ""
@@ -4805,7 +4805,7 @@ msgstr "Dosah"
 
 #: scripts/science_db.lua:31 scripts/science_db.lua:62
 msgid "Damage"
-msgstr "Poskozeni"
+msgstr "Poškození"
 
 #: scripts/science_db.lua:32
 msgid ""
@@ -4821,17 +4821,17 @@ msgstr ""
 #: scripts/science_db.lua:36 scripts/science_db.lua:46
 #: scripts/science_db.lua:55
 msgid "Blast radius"
-msgstr "Polomer vybuchu"
+msgstr "Poloměr výbuchu"
 
 #: scripts/science_db.lua:37 scripts/science_db.lua:47
 #: scripts/science_db.lua:56
 msgid "Damage at center"
-msgstr "Pozkozeni v epicentru"
+msgstr "Poškození v epicentru"
 
 #: scripts/science_db.lua:38 scripts/science_db.lua:48
 #: scripts/science_db.lua:57
 msgid "Damage at edge"
-msgstr "Pozkozeni na okraji"
+msgstr "Poškozeni na okraji"
 
 #: scripts/science_db.lua:39
 msgid ""
@@ -4853,7 +4853,7 @@ msgstr ""
 
 #: scripts/science_db.lua:44
 msgid "Drop distance"
-msgstr "Vypousteci vzdalenost"
+msgstr "Vypouštěcí vzdálenost"
 
 #: scripts/science_db.lua:45
 #, fuzzy
@@ -4890,7 +4890,7 @@ msgstr ""
 
 #: scripts/science_db.lua:63
 msgid "Burst"
-msgstr "Davka"
+msgstr "Dávka"
 
 #: scripts/science_db.lua:64
 msgid ""
@@ -4905,18 +4905,18 @@ msgid ""
 msgstr ""
 
 #~ msgid "Graphics Options"
-#~ msgstr "Nastaveni grafiky"
+#~ msgstr "Nastavení grafiky"
 
 #~ msgid "No variation."
-#~ msgstr "Zadne varianty."
+#~ msgstr "Žádné varianty."
 
 #~ msgctxt "selfdestruct"
 #~ msgid "Cancel"
-#~ msgstr "Zrusit"
+#~ msgstr "Zrušit"
 
 #~ msgctxt "options"
 #~ msgid "Back"
-#~ msgstr "Zpet"
+#~ msgstr "Zpět"
 
 #~ msgid "Mission Clock"
 #~ msgstr "Hodiny Mise"
@@ -4927,11 +4927,11 @@ msgstr ""
 
 #~ msgctxt "screenLan"
 #~ msgid "Back"
-#~ msgstr "Zpet"
+#~ msgstr "Zpět"
 
 #~ msgid "Cancel"
-#~ msgstr "Zrusit"
+#~ msgstr "Zrušit"
 
 #~ msgctxt "hacking"
 #~ msgid "Close"
-#~ msgstr "Zavrit"
+#~ msgstr "Zavřít"
