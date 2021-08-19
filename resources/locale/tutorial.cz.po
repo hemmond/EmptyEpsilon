@@ -519,6 +519,11 @@ msgid ""
 "them to do more damage.\n"
 "Note that every beam you fire adds additional heat to the system."
 msgstr ""
+"Paprskové zbraně:\n"
+"\n"
+"Zvýšením výkonu paprskových zbraní docílíte zvýšení rychlosti palby, čímž docílíte "
+"většího poškození.\n"
+"Pamatujte, že každý vystřelený paprsek přidává systému další teplo."
 
 #: scripts/tutorial_00_all.lua:341 scripts/tutorial_04_engineering.lua:168
 msgid ""
@@ -526,6 +531,9 @@ msgid ""
 "\n"
 "Increased missile system power lowers the reload time of weapon tubes."
 msgstr ""
+"Torpédomety:\n"
+"\n"
+"Zvýšení výkonu torpédometů zrychluje přebíjení torpédometů."
 
 #: scripts/tutorial_00_all.lua:344 scripts/tutorial_04_engineering.lua:171
 msgid ""
@@ -534,6 +542,10 @@ msgid ""
 "Increasing power to the maneuvering system allows the ship to turn faster. It also "
 "increases the recharge rate for the combat maneuvering system."
 msgstr ""
+"Manévrování:\n"
+"\n"
+"Zvýšení výkonu manévrování umožňí lodi se rychleji otáčet. Také urychluje dobíjení "
+"úhybných manévrů."
 
 #: scripts/tutorial_00_all.lua:347 scripts/tutorial_04_engineering.lua:174
 msgid ""
@@ -541,6 +553,9 @@ msgid ""
 "\n"
 "Adding power to the impulse engines increases your impulse flight speed."
 msgstr ""
+"Impulzní pohon:\n"
+"\n"
+"Vyšší výkon impulzního pohonu zvyšuje vaši impulzní rychlost."
 
 #: scripts/tutorial_00_all.lua:350 scripts/tutorial_04_engineering.lua:177
 msgid ""
@@ -548,6 +563,9 @@ msgid ""
 "\n"
 "Adding power to the warp drive increases your warp drive flight speed."
 msgstr ""
+"Warpový pohon:\n"
+"\n"
+"Zvýšením výkonu ve warpovém pohonu docílíte rychlejší let warpovými rychlostmi."
 
 #: scripts/tutorial_00_all.lua:353 scripts/tutorial_04_engineering.lua:180
 msgid ""
@@ -555,6 +573,10 @@ msgid ""
 "\n"
 "A higher-powered jump drive recharges faster and has a shorter delay before jumping."
 msgstr ""
+"Skokový pohon:\n"
+"\n"
+"Vyšší výkon skokového pohonu snamená, že se pohon rychleji dobíjí mezi skoky a "
+"zkracuje dobu do skoku."
 
 #: scripts/tutorial_00_all.lua:356 scripts/tutorial_04_engineering.lua:183
 msgid ""
@@ -563,20 +585,32 @@ msgid ""
 "Additional power in the shield system increases their rate of recharge, and decreases "
 "the amount of degradation your shields sustain when damaged."
 msgstr ""
+"Štíty:\n"
+"\n"
+"Vyšší výkon ve štítech urychluje jejich dobíjení a snižuje degradaci, kterou vaše "
+"štíty utrpí při vykrývání poškození."
 
 #: scripts/tutorial_00_all.lua:359 scripts/tutorial_04_engineering.lua:186
 msgid ""
 "This concludes the overview of the engineering station. Be sure to keep your ship "
 "running in top condition!"
 msgstr ""
+"Toto ukončuje přehled pracoviště strojovny. Postarejte se ať vaše loď funguje v co "
+"nejlepším stavu!"
 
+# TODO fix it to long range radar - also in original.
 #: scripts/tutorial_00_all.lua:367 scripts/tutorial_05_science.lua:136
+#, fuzzy
 msgid ""
 "Welcome, science officer.\n"
 "\n"
 "You are the eyes of the ship. Your job is to supply the captain with information. From "
 "your station, you can detect and scan objects at a range of up to 30u."
 msgstr ""
+"Vítejte, vědecký důstojníku.\n"
+"\n"
+"Vy jste očima lodi. Vaše práce je zásobovat kapitána informacemi. Z vaší stanice "
+"můžete detekovat a skenovat objekty až do vzdálenosti 30U."
 
 #: scripts/tutorial_00_all.lua:372 scripts/tutorial_00_all.lua:458
 #: scripts/tutorial_05_science.lua:141
@@ -587,6 +621,10 @@ msgid ""
 "Heading and distance are of particular importance, as without these, the helms officer "
 "will be jumping in the dark."
 msgstr ""
+"Na tomto radaru můžete výberem jednotlvých objektů o nich získat informace.\n"
+"Přidal jsem vám na prozkoumání přátelskou loď a stanici. Vybrete je a všimněte si, "
+"kolik informací o nich můžete zjistit.\n"
+"Kurs a vzdálenost jsou obzvláště důležité. Bez nich by váš pilot skákal s lodí naslepo."
 
 #: scripts/tutorial_00_all.lua:377 scripts/tutorial_00_all.lua:463
 #: scripts/tutorial_05_science.lua:146
@@ -597,6 +635,11 @@ msgid ""
 "frequency bands to your target's.\n"
 "Scan this ship now."
 msgstr ""
+"Nahradil jsem přátelskou stanici neznámou lodí. Až ji vyberete, všimněte si že o ní "
+"nevíte prakticky nic.\n"
+"Abyste se něco dozvěděli, musíte ji oskenovat. Skenování vyžaduje abyste srovnali "
+"frekvenční pásma vašich skenerů s pásmy vašeho cíle.\n"
+"Oskenujte tuto loď."
 
 #: scripts/tutorial_00_all.lua:380 scripts/tutorial_00_all.lua:466
 #: scripts/tutorial_05_science.lua:149
@@ -604,6 +647,8 @@ msgid ""
 "Good. Notice that you now know this ship is unfriendly. It might have been a friendly "
 "or neutral ship as well, but until you scanned it, you do not know."
 msgstr ""
+"Dobrá. Všimněte si že teď víte, že tato loď je nepřátelská. Mohla být i přátelská, "
+"nebo neutrální, ale dokud ji neoskenujete, tak to nezjistíte."
 
 #: scripts/tutorial_00_all.lua:381 scripts/tutorial_00_all.lua:467
 #: scripts/tutorial_05_science.lua:150
@@ -614,6 +659,11 @@ msgid ""
 "simultaneously.\n"
 "Deep scan the enemy now."
 msgstr ""
+"Všimněte si, že máte méně informací o této lodi, než o přátelské lodi. Musíte provést "
+"hloubkový sken této lodi pro zjištění více informací.\n"
+"Hloubkový sken vyžaduje více námahy a požaduje po vás sjednotit 2 frekvenční pásma "
+"současně.\n"
+"Proveďte hloubkový sken nepřítele."
 
 #: scripts/tutorial_00_all.lua:384 scripts/tutorial_00_all.lua:470
 #: scripts/tutorial_05_science.lua:153
@@ -621,6 +671,9 @@ msgid ""
 "Excellent. Notice that this took more time and concentration than the simple scan, so "
 "be careful to perform deep scans only when necessary or you could run out of time."
 msgstr ""
+"Výborně. Všimněte si, že to vyžadovalo více času a koncentrace, než jednoduchý sken, "
+"tak buďte střídmí s hloubkovým skenem a používejte jej jen, když bude třeba, nebo vám "
+"může dojít čas."
 
 #: scripts/tutorial_00_all.lua:388 scripts/tutorial_00_all.lua:474
 #: scripts/tutorial_05_science.lua:157
@@ -631,6 +684,10 @@ msgid ""
 "In this database, you can look up details on things like ship types, weapons, and "
 "other objects."
 msgstr ""
+"Kromě radaru dlouhého dosahu, vědecké pracoviště také může přistoupit do vědecké "
+"databáze.\n"
+"\n"
+"V této databázi můžete vyhledat detaily k typům lodí, zbraním nebo jiným objektům."
 
 #: scripts/tutorial_00_all.lua:391 scripts/tutorial_00_all.lua:477
 #: scripts/tutorial_05_science.lua:160
@@ -640,6 +697,10 @@ msgid ""
 "\n"
 "Without your information, the crew is mostly blind."
 msgstr ""
+"Pamatujte, vaše práce je zásobování informacemi. Vědět pozici a stav ostatních lodí je "
+"pro vašeho kapitána klíčové.\n"
+"\n"
+"Bez vašich informací je posádka převážně slepá."
 
 #: scripts/tutorial_00_all.lua:401 scripts/tutorial_06_relay.lua:129
 msgid ""
