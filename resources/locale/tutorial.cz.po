@@ -710,6 +710,11 @@ msgid ""
 "range radar data from friendly ships and stations, and can place navigational "
 "waypoints and launch scanning probes."
 msgstr ""
+"Vítejte na komunikačním pracovišti.\n"
+"\n"
+"Vaším úkolem je komunikovat s okolními stanicemi a loděmi. Také máte přístup k radarům "
+"krátkého dosahu od spřátelených lodí a stanic, můžete umisťovat navigační body a "
+"vysílat senzorové sondy."
 
 #: scripts/tutorial_00_all.lua:404 scripts/tutorial_06_relay.lua:132
 msgid ""
@@ -718,16 +723,20 @@ msgid ""
 "You can target any station or ship and attempt to communicate with it. Other ships can "
 "also attempt to contact you."
 msgstr ""
+"Vaše první zodpovědnost je starat se o komunikaci.\n"
+"\n"
+"Můžete vybrat jakoukoliv stanici nebo loď a zkusit s ní komunikovat. Ostatní lodě se "
+"můžou pokusit zkontaktovat vás."
 
 #: scripts/tutorial_00_all.lua:419 scripts/tutorial_00_all.lua:495
 #: scripts/tutorial_06_relay.lua:147
 msgid "Open communications with the station near you to continue the tutorial."
-msgstr ""
+msgstr "Pro pokračování výuky zahajte komunikaci se stanicí nedaleko vás."
 
 #: scripts/tutorial_00_all.lua:421 scripts/tutorial_00_all.lua:497
 #: scripts/tutorial_06_relay.lua:149
 msgid "Now finish your talk with the station."
-msgstr ""
+msgstr "A teď dokončete komunikaci s touto stanicí."
 
 #: scripts/tutorial_00_all.lua:424 scripts/tutorial_00_all.lua:500
 #: scripts/tutorial_06_relay.lua:152
@@ -737,6 +746,9 @@ msgid ""
 "They might inform you about new objectives and your mission progress, ask for backup, "
 "or resupply your weapons. This is all part of your responsibilities as relay officer."
 msgstr ""
+"V závislosti na scénáři budete mít při komunikaci se stanicemi různé možnosti.\n"
+"Mohou vás informovat o nových cílech mise a vašem postupu, žádat vaši pomoc, nebo vám "
+"doplnit zásoby raket. To vše části vaší zodpovědnosti komunikačního důstojníka."
 
 #: scripts/tutorial_00_all.lua:430 scripts/tutorial_06_relay.lua:158
 msgid ""
@@ -746,12 +758,19 @@ msgid ""
 "Everything else is invisible to you. This gives you a different view from the science "
 "officer, because you can scan the contents of nebulae."
 msgstr ""
+"Vaše pracoviště také zahtnuje tuto radarovou mapu.\n"
+"\n"
+"Na této mapě vidíte všechny objekty do vzdálenosti 5U od spřátelených lodí a stanic. "
+"Všechno ostatní je pro vás neviditelné. To vám dává oproti vědeckému důstojníkovi jiný "
+"pohled, protože vy můžete prozkoumat mlhoviny."
 
 #: scripts/tutorial_00_all.lua:433 scripts/tutorial_06_relay.lua:161
 msgid ""
 "Finally, you control your ship's probes. Probes can expand your radar view. Launch a "
 "probe to the top right, toward the ship designated DMY-01."
 msgstr ""
+"Nakonec, máte k dispozici sondy.Sondy mohou rozšířit váš radarový dosah. Vyšlete sondu "
+"doprava nahoru k lodi označené DMY-01"
 
 #: scripts/tutorial_00_all.lua:444 scripts/tutorial_06_relay.lua:172
 msgid ""
@@ -759,14 +778,22 @@ msgid ""
 "nebulae. However, you have a limited supply of them and can't replenish them until you "
 "to dock with a station."
 msgstr ""
+"Sondy mohou rozěířit vaše skenovací schopnosti nad rámec vašeho normálního dosahu, "
+"Nicméně, máte jich jen omezený počet a nemůžete je doplnit, dokud nejste zadokovaní u "
+"stanice."
 
 #: scripts/tutorial_00_all.lua:453
+#, fuzzy
 msgid ""
 "Welcome, operations officer.\n"
 "\n"
 "You are the eyes of the ship. Your job is to supply the captain with information. From "
 "your station, you can detect and scan objects at a range of up to 30u."
 msgstr ""
+"Vítejte, operační důstojníku.\n"
+"\n"
+"Vy jste očima lodi. Vaše práce je zásobovat kapitána informacemi. Z vaší stanice "
+"můžete detekovat a skenovat objekty až do vzdálenosti 30U."
 
 #: scripts/tutorial_00_all.lua:480
 msgid ""
@@ -775,15 +802,18 @@ msgid ""
 "You can target any station or ship and attempt to communicate with it. Other ships can "
 "also attempt to contact you."
 msgstr ""
+"Vaše druhou zodpovědnost je starat se o komunikaci.\n"
+"\n"
+"Můžete vybrat jakoukoliv stanici nebo loď a zkusit s ní komunikovat. Ostatní lodě se "
+"můžou pokusit zkontaktovat vás."
 
 #: scripts/tutorial_00_all.lua:505
-#, fuzzy
 msgid ""
 "This concludes the tutorial. While we have covered the basics, there are more advanced "
 "features in the game that you might discover."
 msgstr ""
-"Tímto zakončujeme výuku hlavní obrazovky a radaru. I když jsme probrali základy, ve "
-"hře je více pokročilejších funkcí, které můžete ještě objevit."
+"Tímto zakončujeme výuku. I když jsme probrali jen základy, ve hře je více "
+"pokročilejších funkcí, které můžete ještě objevit."
 
 #: scripts/tutorial_01_mainscreen.lua:162
 msgid ""
