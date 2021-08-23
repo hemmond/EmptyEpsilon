@@ -298,15 +298,14 @@ msgstr "Prosím zadejte heslo serveru:"
 #: src/menus/serverBrowseMenu.cpp:21
 msgctxt "game_client_disconnect_reason"
 msgid "still connected"
-msgstr ""
+msgstr "stále připojen"
 
 #: src/menus/serverBrowseMenu.cpp:23
 msgctxt "game_client_disconnect_reason"
 msgid "bad credentials"
-msgstr ""
+msgstr "špatné příhlašovací údaje"
 
 #: src/menus/serverBrowseMenu.cpp:25
-#, fuzzy
 msgctxt "game_client_disconnect_reason"
 msgid "closed by server"
 msgstr "odpojen serverem"
@@ -314,22 +313,22 @@ msgstr "odpojen serverem"
 #: src/menus/serverBrowseMenu.cpp:27
 msgctxt "game_client_disconnect_reason"
 msgid "timed out"
-msgstr ""
+msgstr "vypršel čas spojení"
 
 #: src/menus/serverBrowseMenu.cpp:29
 msgctxt "game_client_disconnect_reason"
 msgid "unknown"
-msgstr ""
+msgstr "neznámá"
 
 #: src/menus/serverBrowseMenu.cpp:31
 msgctxt "game_client_disconnect_reason"
 msgid "version mismatch"
-msgstr ""
+msgstr "nesoulad verzí"
 
 #: src/menus/serverBrowseMenu.cpp:33
 msgctxt "game_client_disconnect_reason"
 msgid "unspecified error {error}"
-msgstr ""
+msgstr "nespecifikovaná chyba {error}"
 
 #: src/menus/serverBrowseMenu.cpp:50 src/menus/tutorialMenu.cpp:66
 #: src/menus/optionsMenu.cpp:225 src/menus/hotkeyMenu.cpp:70
@@ -340,14 +339,13 @@ msgstr ""
 #: scripts/comms_station.lua:147 scripts/comms_station.lua:161
 #: scripts/comms_station.lua:225 scripts/comms_station.lua:230
 #: scripts/comms_station.lua:254 scripts/comms_station.lua:259
-#, fuzzy
 msgctxt "button"
 msgid "Back"
 msgstr "Zpět"
 
 #: src/menus/serverBrowseMenu.cpp:57
 msgid "Connection error: {message}"
-msgstr ""
+msgstr "Chyba připojení: {message}"
 
 #: src/menus/serverBrowseMenu.cpp:68
 msgid "LAN"
@@ -419,9 +417,8 @@ msgid "GM control code: "
 msgstr "Kód pána hry: "
 
 #: src/menus/serverCreationScreen.cpp:75
-#, fuzzy
 msgid "Server IPs: "
-msgstr "IP adresa serveru: "
+msgstr "IP adresy serveru: "
 
 #: src/menus/serverCreationScreen.cpp:89
 msgid "Server visibility: "
@@ -583,7 +580,7 @@ msgstr "Nebyla vybrána varianta. Hrát scénář jak je zamýšleno."
 #: src/menus/tutorialMenu.cpp:29
 msgctxt "title"
 msgid "Tutorials"
-msgstr "Výukové scénáře:"
+msgstr "Výukové scénáře"
 
 #: src/menus/tutorialMenu.cpp:59
 msgid "Start Tutorial"
@@ -650,9 +647,8 @@ msgid "Science Radar Lock"
 msgstr "Otáčení vědeckého radaru"
 
 #: src/menus/optionsMenu.cpp:163
-#, fuzzy
 msgid "Control Options"
-msgstr "Nastavení zvuku"
+msgstr "Nastavení ovládání"
 
 #: src/menus/optionsMenu.cpp:166 src/menus/hotkeyMenu.cpp:38
 msgid "Configure Keyboard"
@@ -660,7 +656,7 @@ msgstr "Nastavení kláves"
 
 #: src/menus/optionsMenu.cpp:173
 msgid "Language (applies on back)"
-msgstr "Jazyk (pužije se po zpět)"
+msgstr "Jazyk (použije se po zpět)"
 
 #: src/menus/optionsMenu.cpp:209
 msgid "Preview Soundtracks"
@@ -676,17 +672,14 @@ msgid "Select your station"
 msgstr "Vyber stanici"
 
 #: src/menus/shipSelectionScreen.cpp:52
-#, fuzzy
 msgid "6/5 player crew"
 msgstr "posádka: 6/5 hráčů"
 
 #: src/menus/shipSelectionScreen.cpp:52
-#, fuzzy
 msgid "4/3 player crew"
 msgstr "posádka: 4/3 hráči"
 
 #: src/menus/shipSelectionScreen.cpp:52
-#, fuzzy
 msgid "1 player crew/extras"
 msgstr "posádka: 1 hráč/extra"
 
@@ -716,7 +709,6 @@ msgid "{angle} degrees"
 msgstr "{angle} stupňů"
 
 #: src/menus/shipSelectionScreen.cpp:100
-#, fuzzy
 msgctxt "shipwindow"
 msgid "0 degrees"
 msgstr "0 stupňů"
@@ -907,12 +899,12 @@ msgstr "{energy}/min"
 #: src/screens/crew6/engineeringScreen.cpp:243
 msgctxt "slider"
 msgid "Power: {current_level}% / {requested}%"
-msgstr ""
+msgstr "Výkon: {current_level}% / {requested}%"
 
 #: src/screens/crew6/engineeringScreen.cpp:245
 msgctxt "slider"
 msgid "Coolant: {current_level}% / {requested}%"
-msgstr ""
+msgstr "Chladivo: {current_level}% / {requested}%"
 
 #: src/screens/crew6/engineeringScreen.cpp:259
 msgid "Energy production"
@@ -1317,28 +1309,24 @@ msgid "Systems"
 msgstr "Systémy"
 
 #: src/screens/gm/tweak.cpp:69
-#, fuzzy
 msgctxt "tab"
 msgid "Power"
-msgstr "Vykon"
+msgstr "Výkon"
 
 #: src/screens/gm/tweak.cpp:71
-#, fuzzy
 msgctxt "tab"
 msgid "Coolant Rate"
 msgstr "Tempo chlazení"
 
 #: src/screens/gm/tweak.cpp:73
-#, fuzzy
 msgctxt "tab"
 msgid "Heat Rate"
-msgstr "Tempo teploty"
+msgstr "Tempo zařívání"
 
 #: src/screens/gm/tweak.cpp:75
-#, fuzzy
 msgctxt "tab"
 msgid "Power Rate"
-msgstr "Vykon"
+msgstr "Tempo výkonu"
 
 #: src/screens/gm/tweak.cpp:81
 msgctxt "tab"
@@ -1393,7 +1381,7 @@ msgstr "Lze zničit"
 #: src/screens/gm/tweak.cpp:194
 msgctxt "tweak_ship"
 msgid "Special drives:"
-msgstr ""
+msgstr "Zvláštní pohony:"
 
 #: src/screens/gm/tweak.cpp:195
 msgid "Warp Drive"
@@ -1404,14 +1392,12 @@ msgid "Jump Drive"
 msgstr "Skokový pohon"
 
 #: src/screens/gm/tweak.cpp:206
-#, fuzzy
 msgid "Short-range radar range:"
-msgstr "Radar krátkého dosahu:"
+msgstr "Dosah radaru krátkého dosahu:"
 
 #: src/screens/gm/tweak.cpp:212
-#, fuzzy
 msgid "Long-range radar range:"
-msgstr "Radar dlouhého dosahu:"
+msgstr "Dosah radaru dlouhého dosahu:"
 
 #: src/screens/gm/tweak.cpp:258
 msgctxt "missiles"
@@ -1428,9 +1414,8 @@ msgid "Jammer Range:"
 msgstr "Dosah rušičky:"
 
 #: src/screens/gm/tweak.cpp:319
-#, fuzzy
 msgid "Asteroid Size:"
-msgstr "Velikost asteroidu"
+msgstr "Velikost asteroidu:"
 
 #: src/screens/gm/tweak.cpp:365
 msgid "Tube count:"
@@ -1541,11 +1526,11 @@ msgstr "{system} - teplota"
 
 #: src/screens/gm/tweak.cpp:679
 msgid "current factor"
-msgstr ""
+msgstr "současný faktor"
 
 #: src/screens/gm/tweak.cpp:680
 msgid "desired factor"
-msgstr ""
+msgstr "požadovaný faktor"
 
 #: src/screens/gm/tweak.cpp:685 src/screens/gm/tweak.cpp:748
 msgid "{system}"
@@ -1553,15 +1538,15 @@ msgstr "{system}"
 
 #: src/screens/gm/tweak.cpp:709 src/screens/gm/tweak.cpp:772
 msgid "Applies on [Enter]"
-msgstr ""
+msgstr "Použije se po [Enter]"
 
 #: src/screens/gm/tweak.cpp:742
 msgid "current rate"
-msgstr ""
+msgstr "současné tempo"
 
 #: src/screens/gm/tweak.cpp:743
 msgid "desired rate"
-msgstr ""
+msgstr "požadované tempo"
 
 #: src/screens/gm/tweak.cpp:844
 msgid "Control code:"
@@ -1593,7 +1578,7 @@ msgstr "Obsazené pozice: "
 
 #: src/screens/gm/tweak.cpp:925
 msgid "position"
-msgstr ""
+msgstr "pozice"
 
 #: src/screens/gm/tweak.cpp:974
 msgid "Coolant:"
@@ -1650,12 +1635,12 @@ msgstr "Automatické opravy"
 #: src/screens/gm/tweak.cpp:1097
 msgctxt "player_tweak"
 msgid "Warp (E/s): {energy_per_second}"
-msgstr ""
+msgstr "Warp (E/s): {energy_per_second}"
 
 #: src/screens/gm/tweak.cpp:1098
 msgctxt "player_tweak"
 msgid "Shields (E/s): {energy_per_second}"
-msgstr ""
+msgstr "Štíty (E/s): {energy_per_second}"
 
 #: src/screens/gm/tweak.cpp:1123
 msgid "Callsign:"
@@ -1842,12 +1827,12 @@ msgstr "Poškození vašich štítů"
 #: src/screenComponents/frequencyCurve.cpp:61
 msgctxt "scienceFrequencyGraph"
 msgid "No enemy beams"
-msgstr ""
+msgstr "Žádné nepříelské paprsky"
 
 #: src/screenComponents/frequencyCurve.cpp:63
 msgctxt "scienceFrequencyGraph"
 msgid "No enemy shields"
-msgstr ""
+msgstr "Žádné nepřátelské štíty"
 
 #: src/screenComponents/powerDamageIndicator.cpp:33
 msgctxt "systems"
@@ -2423,7 +2408,7 @@ msgstr "Skenovat objekt"
 #: src/gui/hotkeyConfig.cpp:109
 msgctxt "hotkey_Science"
 msgid "Select next scannable object"
-msgstr ""
+msgstr "Vybrat další skenovatelný objekt"
 
 #: src/gui/hotkeyConfig.cpp:112
 msgctxt "hotkey_menu"
@@ -2431,10 +2416,9 @@ msgid "Engineering"
 msgstr "Strojovna"
 
 #: src/gui/hotkeyConfig.cpp:113
-#, fuzzy
 msgctxt "hotkey_Engineering"
 msgid "Select reactor system"
-msgstr "Vybrat reaktor"
+msgstr "Vybrat systém reaktoru"
 
 #: src/gui/hotkeyConfig.cpp:114
 #, fuzzy
@@ -2581,12 +2565,12 @@ msgstr "Zrušit sebedestrukci"
 #: src/spaceObjects/mine.cpp:146
 msgctxt "gm_info"
 msgid "Owner"
-msgstr ""
+msgstr "Majitel"
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:197
 msgctxt "gm_info"
 msgid "Target"
-msgstr ""
+msgstr "Cíl"
 
 #: src/spaceObjects/missiles/missileWeapon.cpp:200
 #: src/spaceObjects/mine.cpp:149
