@@ -246,7 +246,6 @@ msgstr ""
 "nabíjení, vybíjení a střelbu z torpédometů a za ovládání štítů."
 
 #: scripts/tutorial/00_all.lua:134
-#, fuzzy
 msgid ""
 "Your most fundamental task is to target your ship's weapons.\n"
 "Your beam weapons only fire at your selected target, and homing missiles "
@@ -299,7 +298,6 @@ msgstr ""
 "Sklopte štíty pro pokračování."
 
 #: scripts/tutorial/00_all.lua:162
-#, fuzzy
 msgid ""
 "While only a single button, your shields are vital for survival. They "
 "protect against all kinds of damage, including beam weapons, missiles, "
@@ -608,7 +606,6 @@ msgstr ""
 
 # TODO fix it to long range radar - also in original.
 #: scripts/tutorial/00_all.lua:279
-#, fuzzy
 msgid ""
 "Welcome, science officer.\n"
 "\n"
@@ -733,6 +730,27 @@ msgstr ""
 "Můžete vybrat jakoukoliv stanici nebo loď a zkusit s ní komunikovat. Ostatní "
 "lodě se můžou pokusit zkontaktovat vás."
 
+#: scripts/tutorial/00_all.lua:322 scripts/tutorial/00_all.lua:398
+msgid "You successfully opened communications. Congratulations."
+msgstr "Gratuluji. Úspěšně jste zahájil komunikaci."
+
+#: scripts/tutorial/00_all.lua:323 scripts/tutorial/00_all.lua:399
+msgid "Tell me more!"
+msgstr "Rád bych věděl víc!"
+
+#: scripts/tutorial/00_all.lua:324 scripts/tutorial/00_all.lua:400
+msgid "Sorry, there's nothing more to tell you."
+msgstr "Omlouvám se, ale nemám co bych k tomu dodal."
+
+#: scripts/tutorial/00_all.lua:326 scripts/tutorial/00_all.lua:402
+msgid "Continue with the tutorial."
+msgstr "Pokračovat ve výuce."
+
+#: scripts/tutorial/00_all.lua:327 scripts/tutorial/00_all.lua:403
+msgid ""
+"The tutorial will continue when you close communications with this station."
+msgstr "Výuka bude pokračovat jakmile zavřete komunkaci s touto stanicí."
+
 #: scripts/tutorial/00_all.lua:331 scripts/tutorial/00_all.lua:407
 msgid "Open communications with the station near you to continue the tutorial."
 msgstr "Pro pokračování výuky zahajte komunikaci se stanicí nedaleko vás."
@@ -785,12 +803,11 @@ msgid ""
 "explore nebulae. However, you have a limited supply of them and can't "
 "replenish them until you to dock with a station."
 msgstr ""
-"Sondy mohou rozěířit vaše skenovací schopnosti nad rámec vašeho normálního "
+"Sondy mohou rozšířit vaše skenovací schopnosti nad rámec vašeho normálního "
 "dosahu, Nicméně, máte jich jen omezený počet a nemůžete je doplnit, dokud "
 "nejste zadokovaní u stanice."
 
 #: scripts/tutorial/00_all.lua:365
-#, fuzzy
 msgid ""
 "Welcome, operations officer.\n"
 "\n"
