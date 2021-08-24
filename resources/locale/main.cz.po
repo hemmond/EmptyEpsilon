@@ -2524,27 +2524,27 @@ msgstr "Snížit chlazení systému"
 #: src/gui/hotkeyConfig.cpp:134
 msgctxt "hotkey_Engineering"
 msgid "Next repair crew"
-msgstr ""
+msgstr "Další tým opravářů"
 
 #: src/gui/hotkeyConfig.cpp:135
 msgctxt "hotkey_Engineering"
 msgid "Crew move up"
-msgstr ""
+msgstr "Přesun opravářů nahoru"
 
 #: src/gui/hotkeyConfig.cpp:136
 msgctxt "hotkey_Engineering"
 msgid "Crew move down"
-msgstr ""
+msgstr "Přesun opravářů dolů"
 
 #: src/gui/hotkeyConfig.cpp:137
 msgctxt "hotkey_Engineering"
 msgid "Crew move left"
-msgstr ""
+msgstr "Přesun opravářů doleva"
 
 #: src/gui/hotkeyConfig.cpp:138
 msgctxt "hotkey_Engineering"
 msgid "Crew move right"
-msgstr ""
+msgstr "Přesun opravářů doprava"
 
 #: src/gui/hotkeyConfig.cpp:139
 msgctxt "hotkey_Engineering"
@@ -2611,7 +2611,7 @@ msgstr "EMP"
 #: src/spaceObjects/spaceship.cpp:1529
 msgctxt "missile"
 msgid "HVLI"
-msgstr ""
+msgstr "HVLI"
 
 #: src/spaceObjects/cpuShip.cpp:197
 msgctxt "cpulog"
@@ -4099,23 +4099,23 @@ msgstr "Jdeme pomoci na %s."
 #: scripts/comms_ship.lua:66
 msgctxt "commsShipAssist"
 msgid "Assist me"
-msgstr ""
+msgstr "Pomozte mi"
 
 #: scripts/comms_ship.lua:68
 msgctxt "commsShipAssist"
 msgid "Heading toward you to assist."
-msgstr ""
+msgstr "Letíme k vám na pomoc"
 
 #: scripts/comms_ship.lua:75
 msgctxt "commsShipAssist"
 msgid "Report status"
-msgstr ""
+msgstr "Ohlašte stav"
 
 #: scripts/comms_ship.lua:84
 #, lua-format
 msgctxt "commsShipAssist"
 msgid "Dock at %s"
-msgstr ""
+msgstr "Kotvím u %s"
 
 #: scripts/comms_ship.lua:86
 #, lua-format
@@ -4126,17 +4126,17 @@ msgstr "Kotví k %s"
 #: scripts/comms_ship.lua:105
 msgctxt "commsShipEnemy"
 msgid "We will see to your destruction!"
-msgstr ""
+msgstr "Postaráme se o vaše zničení!"
 
 #: scripts/comms_ship.lua:106
 msgctxt "commsShipEnemy"
 msgid "Your bloodline will end here!"
-msgstr ""
+msgstr "Vaše pokrevní linie končí zde!"
 
 #: scripts/comms_ship.lua:107
 msgctxt "commsShipEnemy"
 msgid "Your feeble threats are meaningless."
-msgstr ""
+msgstr "Vaše patetické hrozby jsou bezvýznamné."
 
 #: scripts/comms_ship.lua:109
 msgctxt "commsShipEnemy"
@@ -4145,6 +4145,9 @@ msgid ""
 "\n"
 "You will DIEEee weaklingsss!"
 msgstr ""
+"Ktzzzsss.\n"
+"\n"
+"ZZZEEEMŘETE ssslabošššii!"
 
 #: scripts/comms_ship.lua:113
 msgctxt "commsShipEnemy"
@@ -4153,11 +4156,14 @@ msgid ""
 "\n"
 "End of transmission."
 msgstr ""
+"Nechceme vám ublížit, ale ublížíme vám, když budeme muset.\n"
+"\n"
+"Konec přenosu."
 
 #: scripts/comms_ship.lua:117
 msgctxt "commsShipEnemy"
 msgid "Stay out of our way, or your death will amuse us extremely!"
-msgstr ""
+msgstr "Držte se nám z cesty, nebo nás vaše smrt velice pobaví!"
 
 #: scripts/comms_ship.lua:119
 msgctxt "commsShipEnemy"
@@ -4172,21 +4178,30 @@ msgid ""
 "\n"
 "Communication halted."
 msgstr ""
+"Jedna nula jedna.\n"
+"\n"
+"Binární komunikace nedetekována. Přepínám na univerzální řeč.\n"
+"\n"
+"Generuji patřičnou odpověd pro cíl z lidských jazykových archivů.\n"
+"\n"
+":Nedrážděte nás.:\n"
+"\n"
+"Komunikace přerušena."
 
 #: scripts/comms_ship.lua:128
 msgctxt "commsShipEnemy"
 msgid "EXECUTE: SELFDESTRUCT"
-msgstr ""
+msgstr "PROVÉST PŘÍKAZ: SEBEDESTRUKCE"
 
 #: scripts/comms_ship.lua:129
 msgctxt "commsShipEnemy"
 msgid "Rogue command received. Targeting source."
-msgstr ""
+msgstr "Zachycen zbloudilý příkaz. Zaměřuji zdroj."
 
 #: scripts/comms_ship.lua:130
 msgctxt "commsShipEnemy"
 msgid "External command ignored."
-msgstr ""
+msgstr "Externí příkaz ignorován."
 
 #: scripts/comms_ship.lua:132
 msgctxt "commsShipEnemy"
@@ -4196,26 +4211,30 @@ msgid ""
 "\n"
 "Stand down or prepare to donate your corpses toward our nutrition."
 msgstr ""
+"Úl nestrpí žádné hrozby. Opozice vůči komukoli z nás je opozicí vůči nám "
+"všem.\n"
+"\n"
+"Stáhněte se nebo se připravte darovat své mrtvoly na naši výživu."
 
 #: scripts/comms_ship.lua:135
 msgctxt "commsShipEnemy"
 msgid "<Transmits 'The Itsy-Bitsy Spider' on all wavelengths>"
-msgstr ""
+msgstr "<Vysílá 'The Itsy-Bitsy Spider' na všech frekvencích>"
 
 #: scripts/comms_ship.lua:136
 msgctxt "commsShipEnemy"
 msgid "We do not need permission to pluck apart such an insignificant threat."
-msgstr ""
+msgstr "Nepotřebujeme povolení k rozebrání takové nevýznamné hrozby."
 
 #: scripts/comms_ship.lua:137
 msgctxt "commsShipEnemy"
 msgid "The hive has greater priorities than exterminating pests."
-msgstr ""
+msgstr "Úl má důležitější věci na práci, než hubit škůdce."
 
 #: scripts/comms_ship.lua:139
 msgctxt "commsShipEnemy"
 msgid "Mind your own business!"
-msgstr ""
+msgstr "Věnujte se svým věcem!"
 
 #: scripts/comms_ship.lua:167
 msgctxt "commsShip"
@@ -4224,6 +4243,9 @@ msgid ""
 "\n"
 "We are on an important mission."
 msgstr ""
+"Omlouváme se, ale nemáme čas na diskuzi s vámí.\n"
+"\n"
+"Jsme na důležité misi."
 
 #: scripts/comms_ship.lua:171
 msgctxt "commsShip"
@@ -4232,12 +4254,15 @@ msgid ""
 "\n"
 "Good day."
 msgstr ""
+"Nemáme pro vás nic,\n"
+"\n"
+"Přejeme pěkný den."
 
 #: scripts/comms_ship.lua:186
 #, lua-format
 msgctxt "commsShipAssist"
 msgid "Hull: %d%%\n"
-msgstr ""
+msgstr "Trup: %d%%\n"
 
 #: scripts/comms_ship.lua:190
 #, lua-format
@@ -4261,24 +4286,24 @@ msgstr "Zadní štít: %d%%\n"
 #, lua-format
 msgctxt "commsShipAssist"
 msgid "Shield %d: %d%%\n"
-msgstr ""
+msgstr "Štít %d: %d%%\n"
 
 #: scripts/comms_ship.lua:202
 #, lua-format
 msgctxt "commsShipAssist"
 msgid "%s Missiles: %d/%d\n"
-msgstr ""
+msgstr "%s Střely: %d/%d\n"
 
 #: scripts/comms_ship.lua:214
 #, lua-format
 msgctxt "commsShipAssist"
 msgid "WP %d"
-msgstr ""
+msgstr "Bod %d"
 
 #: scripts/comms_station.lua:69
 msgctxt "commsStation"
 msgid "We are under attack! No time for chatting!"
-msgstr ""
+msgstr "Jsme pod útokem! Není čas na pokec!"
 
 #: scripts/comms_station.lua:87
 #, lua-format
@@ -4287,48 +4312,50 @@ msgid ""
 "Good day, officer! Welcome to %s.\n"
 "What can we do for you today?"
 msgstr ""
+"Dobrý den, důstojníku! Vítejte na stanici %s.\n"
+"Co pro vás můžeme dnes udělat?"
 
 #: scripts/comms_station.lua:89
 #, lua-format
 msgctxt "commsStation"
 msgid "Welcome to our lovely station %s."
-msgstr ""
+msgstr "Vítejte na naší krásné stanici %s."
 
 #: scripts/comms_station.lua:94
 msgctxt "commsStation"
 msgid "Do you have spare homing missiles for us?"
-msgstr ""
+msgstr "Máte navíc nějaké naváděné střely?"
 
 #: scripts/comms_station.lua:95
 msgctxt "commsStation"
 msgid "Can you restock us with HVLI?"
-msgstr ""
+msgstr "Můžete nám doplnit zásoby HVLI?"
 
 #: scripts/comms_station.lua:96
 msgctxt "commsStation"
 msgid "Please re-stock our mines."
-msgstr ""
+msgstr "Prosíme, doplňte naše miny."
 
 #: scripts/comms_station.lua:97
 msgctxt "commsStation"
 msgid "Can you supply us with some nukes?"
-msgstr ""
+msgstr "Můžete nám poskytnout nějaké jaderné střely?"
 
 #: scripts/comms_station.lua:98
 msgctxt "commsStation"
 msgid "Please re-stock our EMP missiles."
-msgstr ""
+msgstr "Prosím, doplňte naše EMP střely."
 
 #: scripts/comms_station.lua:104
 #, lua-format
 msgctxt "commsStation"
 msgid "%s (%d rep each)"
-msgstr ""
+msgstr "%s (%d rep každá)"
 
 #: scripts/comms_station.lua:120
 msgctxt "commsStation"
 msgid "You need to stay docked for that action."
-msgstr ""
+msgstr "Pro tuto akci musíte zůstat zadokovaní."
 
 #: scripts/comms_station.lua:127
 msgctxt "commsStation"
@@ -4343,27 +4370,27 @@ msgstr "Neobchodujeme se zbraněmi hromadného rušení."
 #: scripts/comms_station.lua:131
 msgctxt "commsStation"
 msgid "We do not deal in those weapons."
-msgstr ""
+msgstr "S těmito zbraněmi neobchodujeme."
 
 #: scripts/comms_station.lua:142
 msgctxt "commsStation"
 msgid "All nukes are charged and primed for destruction."
-msgstr ""
+msgstr "Všechny jaderné střely jsou nabité a připravené k ničení."
 
 #: scripts/comms_station.lua:144
 msgctxt "commsStation"
 msgid "Sorry, sir, but you are as fully stocked as I can allow."
-msgstr ""
+msgstr "Omlouvám se, ale jste zásobeni nejvíce, jak můžu dovolit."
 
 #: scripts/comms_station.lua:150
 msgctxt "commsStation"
 msgid "Not enough reputation."
-msgstr ""
+msgstr "Nemáte dostatek reputace."
 
 #: scripts/comms_station.lua:156
 msgctxt "commsStation"
 msgid "You are fully loaded and ready to explode things."
-msgstr ""
+msgstr "Jste plně naloženi a můžete vybuchovat věci."
 
 #: scripts/comms_station.lua:158
 msgctxt "commsStation"
@@ -4371,6 +4398,8 @@ msgid ""
 "We generously resupplied you with some weapon charges.\n"
 "Put them to good use."
 msgstr ""
+"Velkoryse jsme vám doplnili zásoby zbraní.\n"
+"Využijte je dobře."
 
 #: scripts/comms_station.lua:172
 #, lua-format
@@ -4379,6 +4408,8 @@ msgid ""
 "This is %s. Good day, officer.\n"
 "If you need supplies, please dock with us first."
 msgstr ""
+"Zde je %s. Dobrý den, důstojníku.\n"
+"Pokud potřebujete zásoby, nejprve u nás zakotvěte."
 
 #: scripts/comms_station.lua:174
 #, lua-format
@@ -4387,66 +4418,68 @@ msgid ""
 "This is %s. Greetings.\n"
 "If you want to do business, please dock with us first."
 msgstr ""
+"Zde je %s. Zdravíme.\n"
+"Pokud s námi chcete obchodovat, nejprve u nás zakotvěte."
 
 #: scripts/comms_station.lua:181
 #, lua-format
 msgctxt "commsStation"
 msgid "Can you send a supply drop? (%d rep)"
-msgstr ""
+msgstr "Můžete nám poslat zásobovací modul? (%d rep)"
 
 #: scripts/comms_station.lua:190
 #, lua-format
 msgctxt "commsStation"
 msgid "Please send reinforcements! (%d rep)"
-msgstr ""
+msgstr "Prosím pošlete posily! (%d rep)"
 
 #: scripts/comms_station.lua:205
 msgctxt "commsStation"
 msgid "You need to set a waypoint before you can request backup."
-msgstr ""
+msgstr "Musíte mít umístěn bod, než můžete žádat pomoc."
 
 #: scripts/comms_station.lua:207
 msgctxt "commsStation"
 msgid "To which waypoint should we deliver your supplies?"
-msgstr ""
+msgstr "Na jaký bod máme doručit zásoby?"
 
 #: scripts/comms_station.lua:220
 #, lua-format
 msgctxt "commsStation"
 msgid "We have dispatched a supply ship toward %s."
-msgstr ""
+msgstr "Vyslali jsme zásobovací loď na %s."
 
 #: scripts/comms_station.lua:222 scripts/comms_station.lua:251
 msgctxt "commsStation"
 msgid "Not enough reputation!"
-msgstr ""
+msgstr "Nemáte dostatek reputace!"
 
 #: scripts/comms_station.lua:239
 msgctxt "commsStation"
 msgid "You need to set a waypoint before you can request reinforcements."
-msgstr ""
+msgstr "Musíte mít umístěn bod, než můžete žádat o posily."
 
 #: scripts/comms_station.lua:241
 msgctxt "commsStation"
 msgid "To which waypoint should we dispatch the reinforcements?"
-msgstr ""
+msgstr "Na jaký bod máme vyslat posily?"
 
 #: scripts/comms_station.lua:249
 #, lua-format
 msgctxt "commsStation"
 msgid "We have dispatched %s to assist at %s."
-msgstr ""
+msgstr "Vyslali jsme %s k pomoci na %s."
 
 #: scripts/comms_station.lua:320
 #, lua-format
 msgctxt "commsStation"
 msgid "WP %d"
-msgstr ""
+msgstr "Bod %d"
 
 #: scripts/comms_supply_drop.lua:11
 msgctxt "commsShip"
 msgid "Transporting goods."
-msgstr ""
+msgstr "Převážím zboží."
 
 #: scripts/comms_supply_drop.lua:17
 msgctxt "commsShip"
@@ -4454,6 +4487,8 @@ msgid ""
 "We have nothing for you.\n"
 "Good day."
 msgstr ""
+"Nic pro vás nemáme.\n"
+"Přeji dobrý den."
 
 #: scripts/factionInfo.lua:1
 msgid "Independent"
@@ -4834,7 +4869,6 @@ msgid "Drop distance"
 msgstr "Vypouštěcí vzdálenost"
 
 #: scripts/science_db.lua:45
-#, fuzzy
 msgid "Trigger distance"
 msgstr "Aktivační vzdálenost"
 
