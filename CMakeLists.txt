@@ -225,6 +225,7 @@ set(SOURCES
     src/gui/colorConfig.cpp
     src/gui/hotkeyBinder.cpp
     src/gui/hotkeyConfig.cpp
+    src/gui/imageConfig.cpp
     src/gui/joystickConfig.cpp
     src/gui/mouseRenderer.cpp
     src/gui/scriptError.cpp

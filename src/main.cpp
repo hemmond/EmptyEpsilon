@@ -10,6 +10,7 @@
 #include "gui/mouseRenderer.h"
 #include "gui/debugRenderer.h"
 #include "gui/colorConfig.h"
+#include "gui/imageConfig.h"
 #include "gui/hotkeyConfig.h"
 #include "gui/joystickConfig.h"
 #include "menus/mainMenus.h"
@@ -186,6 +187,7 @@ int main(int argc, char** argv)
     }
 
     colorConfig.load();
+    imageConfig.load();
     HotkeyConfig::get().load();
     joystick.load();
 
